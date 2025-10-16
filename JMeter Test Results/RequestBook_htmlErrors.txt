@@ -1,0 +1,320 @@
+line 9 column 1 - Warning: <script> lacks "type" attribute
+line 17 column 5 - Warning: meta lacks "content" attribute
+line 20 column 1 - Warning: unknown attribute "property"
+line 21 column 5 - Warning: unknown attribute "property"
+line 22 column 5 - Warning: unknown attribute "property"
+line 23 column 5 - Warning: unknown attribute "property"
+line 24 column 5 - Warning: unknown attribute "property"
+line 31 column 17 - Warning: <style> lacks "type" attribute
+line 38 column 2 - Warning: <style> lacks "type" attribute
+line 52 column 5 - Warning: <script> lacks "type" attribute
+line 77 column 3 - Warning: <script> lacks "type" attribute
+line 96 column 1 - Warning: <script> lacks "type" attribute
+line 106 column 128 - Warning: link lacks "type" attribute
+line 109 column 1 - Warning: <img> lacks "alt" attribute
+line 116 column 1 - Warning: <script> lacks "type" attribute
+line 117 column 2 - Warning: <script> lacks "type" attribute
+line 118 column 2 - Warning: <script> lacks "type" attribute
+line 119 column 2 - Warning: <script> lacks "type" attribute
+line 167 column 1 - Warning: input attribute "id" has invalid value "__VIEWSTATE"
+line 172 column 2 - Warning: input attribute "id" has invalid value "__VIEWSTATEGENERATOR"
+line 173 column 2 - Warning: input attribute "id" has invalid value "__EVENTVALIDATION"
+line 178 column 89 - Warning: <img> lacks "alt" attribute
+line 179 column 33 - Warning: trimming empty <div>
+line 181 column 1 - Warning: <img> lacks "alt" attribute
+line 182 column 2 - Warning: <img> lacks "alt" attribute
+line 186 column 17 - Error: <header> is not recognized!
+line 186 column 17 - Warning: discarding unexpected <header>
+line 203 column 5 - Warning: unknown attribute "autocomplete"
+line 203 column 5 - Warning: unknown attribute "placeholder"
+line 204 column 4 - Warning: <img> lacks "alt" attribute
+line 221 column 43 - Warning: img lacks "alt" attribute
+line 225 column 38 - Warning: missing </a> before <div>
+line 225 column 59 - Error: <svg> is not recognized!
+line 225 column 59 - Warning: discarding unexpected <svg>
+line 225 column 149 - Error: <path> is not recognized!
+line 225 column 149 - Warning: discarding unexpected <path>
+line 225 column 256 - Warning: discarding unexpected </path>
+line 225 column 263 - Warning: discarding unexpected </svg>
+line 226 column 31 - Warning: trimming empty <div>
+line 227 column 29 - Warning: discarding unexpected </a>
+line 232 column 108 - Warning: trimming empty <div>
+line 303 column 17 - Warning: trimming empty <div>
+line 309 column 5 - Warning: discarding unexpected </header>
+line 310 column 1 - Error: <nav> is not recognized!
+line 310 column 1 - Warning: discarding unexpected <nav>
+line 317 column 49 - Warning: trimming empty <span>
+line 364 column 5 - Warning: discarding unexpected </nav>
+line 367 column 31 - Warning: trimming empty <div>
+line 368 column 38 - Warning: trimming empty <div>
+line 369 column 39 - Warning: trimming empty <div>
+line 370 column 41 - Warning: trimming empty <div>
+line 372 column 14 - Warning: missing </a> before <div>
+line 373 column 39 - Warning: trimming empty <i>
+line 374 column 13 - Warning: trimming empty <div>
+line 375 column 5 - Warning: discarding unexpected </a>
+line 376 column 189 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 251 - Warning: trimming empty <i>
+line 376 column 301 - Warning: missing <li>
+line 376 column 555 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 916 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 1,054 - Warning: unknown attribute "ad-src"
+line 376 column 1,054 - Warning: <img> lacks "src" attribute
+line 376 column 1,298 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 1,365 - Warning: trimming empty <i>
+line 376 column 1,415 - Warning: missing <li>
+line 376 column 1,834 - Warning: unknown attribute "ad-src"
+line 376 column 1,834 - Warning: <img> lacks "src" attribute
+line 376 column 2,085 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 2,143 - Warning: trimming empty <i>
+line 376 column 2,193 - Warning: missing <li>
+line 376 column 2,495 - Warning: unknown attribute "ad-src"
+line 376 column 2,495 - Warning: <img> lacks "src" attribute
+line 376 column 2,789 - Warning: trimming empty <i>
+line 376 column 2,839 - Warning: missing <li>
+line 376 column 3,697 - Warning: unknown attribute "ad-src"
+line 376 column 3,697 - Warning: <img> lacks "src" attribute
+line 376 column 4,005 - Warning: trimming empty <i>
+line 376 column 4,055 - Warning: missing <li>
+line 376 column 4,737 - Warning: unknown attribute "ad-src"
+line 376 column 4,737 - Warning: <img> lacks "src" attribute
+line 376 column 5,038 - Warning: trimming empty <i>
+line 376 column 5,088 - Warning: missing <li>
+line 376 column 5,545 - Warning: unknown attribute "ad-src"
+line 376 column 5,545 - Warning: <img> lacks "src" attribute
+line 376 column 5,855 - Warning: trimming empty <i>
+line 376 column 5,905 - Warning: missing <li>
+line 376 column 6,190 - Warning: unknown attribute "ad-src"
+line 376 column 6,190 - Warning: <img> lacks "src" attribute
+line 376 column 6,443 - Warning: trimming empty <i>
+line 376 column 6,493 - Warning: missing <li>
+line 376 column 6,911 - Warning: unknown attribute "ad-src"
+line 376 column 6,911 - Warning: <img> lacks "src" attribute
+line 376 column 7,138 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 7,213 - Warning: trimming empty <i>
+line 376 column 7,263 - Warning: missing <li>
+line 376 column 7,797 - Warning: unknown attribute "ad-src"
+line 376 column 7,797 - Warning: <img> lacks "src" attribute
+line 376 column 8,090 - Warning: trimming empty <i>
+line 376 column 8,140 - Warning: missing <li>
+line 376 column 8,395 - Warning: unknown attribute "ad-src"
+line 376 column 8,395 - Warning: <img> lacks "src" attribute
+line 376 column 8,698 - Warning: trimming empty <i>
+line 376 column 8,748 - Warning: missing <li>
+line 376 column 9,184 - Warning: unknown attribute "ad-src"
+line 376 column 9,184 - Warning: <img> lacks "src" attribute
+line 376 column 9,426 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 9,488 - Warning: trimming empty <i>
+line 376 column 9,538 - Warning: missing <li>
+line 376 column 9,819 - Warning: unknown attribute "ad-src"
+line 376 column 9,819 - Warning: <img> lacks "src" attribute
+line 376 column 10,071 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 10,133 - Warning: trimming empty <i>
+line 376 column 10,183 - Warning: missing <li>
+line 376 column 10,723 - Warning: unknown attribute "ad-src"
+line 376 column 10,723 - Warning: <img> lacks "src" attribute
+line 376 column 11,012 - Warning: trimming empty <i>
+line 376 column 11,062 - Warning: missing <li>
+line 376 column 11,800 - Warning: unknown attribute "ad-src"
+line 376 column 11,800 - Warning: <img> lacks "src" attribute
+line 376 column 12,073 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 12,135 - Warning: trimming empty <i>
+line 376 column 12,185 - Warning: missing <li>
+line 376 column 13,034 - Warning: unknown attribute "ad-src"
+line 376 column 13,034 - Warning: <img> lacks "src" attribute
+line 376 column 13,353 - Warning: trimming empty <i>
+line 376 column 13,403 - Warning: missing <li>
+line 376 column 14,058 - Warning: unknown attribute "ad-src"
+line 376 column 14,058 - Warning: <img> lacks "src" attribute
+line 376 column 14,396 - Warning: trimming empty <i>
+line 376 column 14,446 - Warning: missing <li>
+line 376 column 14,880 - Warning: unknown attribute "ad-src"
+line 376 column 14,880 - Warning: <img> lacks "src" attribute
+line 376 column 15,183 - Warning: trimming empty <i>
+line 376 column 15,233 - Warning: missing <li>
+line 376 column 15,397 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 15,758 - Warning: unknown attribute "ad-src"
+line 376 column 15,758 - Warning: <img> lacks "src" attribute
+line 376 column 16,054 - Warning: trimming empty <i>
+line 376 column 16,104 - Warning: missing <li>
+line 376 column 16,402 - Warning: Warning: unescaped & which should be written as &amp;
+line 376 column 16,632 - Warning: unknown attribute "ad-src"
+line 376 column 16,632 - Warning: <img> lacks "src" attribute
+line 379 column 202 - Warning: img lacks "alt" attribute
+line 379 column 15,292 - Warning: Warning: unescaped & which should be written as &amp;
+line 383 column 101 - Warning: trimming empty <i>
+line 384 column 170 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 232 - Warning: trimming empty <i>
+line 384 column 266 - Warning: missing <li>
+line 384 column 520 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 881 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 1,034 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 1,034 - Warning: unknown attribute "ad-src"
+line 384 column 1,034 - Warning: <img> lacks "alt" attribute
+line 384 column 1,034 - Warning: <img> lacks "src" attribute
+line 384 column 1,312 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 1,379 - Warning: trimming empty <i>
+line 384 column 1,413 - Warning: missing <li>
+line 384 column 1,847 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 1,847 - Warning: unknown attribute "ad-src"
+line 384 column 1,847 - Warning: <img> lacks "alt" attribute
+line 384 column 1,847 - Warning: <img> lacks "src" attribute
+line 384 column 2,132 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 2,190 - Warning: trimming empty <i>
+line 384 column 2,224 - Warning: missing <li>
+line 384 column 2,541 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 2,541 - Warning: unknown attribute "ad-src"
+line 384 column 2,541 - Warning: <img> lacks "alt" attribute
+line 384 column 2,541 - Warning: <img> lacks "src" attribute
+line 384 column 2,869 - Warning: trimming empty <i>
+line 384 column 2,903 - Warning: missing <li>
+line 384 column 3,776 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 3,776 - Warning: unknown attribute "ad-src"
+line 384 column 3,776 - Warning: <img> lacks "alt" attribute
+line 384 column 3,776 - Warning: <img> lacks "src" attribute
+line 384 column 4,118 - Warning: trimming empty <i>
+line 384 column 4,152 - Warning: missing <li>
+line 384 column 4,849 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 4,849 - Warning: unknown attribute "ad-src"
+line 384 column 4,849 - Warning: <img> lacks "alt" attribute
+line 384 column 4,849 - Warning: <img> lacks "src" attribute
+line 384 column 5,184 - Warning: trimming empty <i>
+line 384 column 5,218 - Warning: missing <li>
+line 384 column 5,690 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 5,690 - Warning: unknown attribute "ad-src"
+line 384 column 5,690 - Warning: <img> lacks "alt" attribute
+line 384 column 5,690 - Warning: <img> lacks "src" attribute
+line 384 column 6,034 - Warning: trimming empty <i>
+line 384 column 6,068 - Warning: missing <li>
+line 384 column 6,368 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 6,368 - Warning: unknown attribute "ad-src"
+line 384 column 6,368 - Warning: <img> lacks "alt" attribute
+line 384 column 6,368 - Warning: <img> lacks "src" attribute
+line 384 column 6,655 - Warning: trimming empty <i>
+line 384 column 6,689 - Warning: missing <li>
+line 384 column 7,122 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 7,122 - Warning: unknown attribute "ad-src"
+line 384 column 7,122 - Warning: <img> lacks "alt" attribute
+line 384 column 7,122 - Warning: <img> lacks "src" attribute
+line 384 column 7,383 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 7,458 - Warning: trimming empty <i>
+line 384 column 7,492 - Warning: missing <li>
+line 384 column 8,041 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 8,041 - Warning: unknown attribute "ad-src"
+line 384 column 8,041 - Warning: <img> lacks "alt" attribute
+line 384 column 8,041 - Warning: <img> lacks "src" attribute
+line 384 column 8,368 - Warning: trimming empty <i>
+line 384 column 8,402 - Warning: missing <li>
+line 384 column 8,672 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 8,672 - Warning: unknown attribute "ad-src"
+line 384 column 8,672 - Warning: <img> lacks "alt" attribute
+line 384 column 8,672 - Warning: <img> lacks "src" attribute
+line 384 column 9,009 - Warning: trimming empty <i>
+line 384 column 9,043 - Warning: missing <li>
+line 384 column 9,494 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 9,494 - Warning: unknown attribute "ad-src"
+line 384 column 9,494 - Warning: <img> lacks "alt" attribute
+line 384 column 9,494 - Warning: <img> lacks "src" attribute
+line 384 column 9,770 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 9,832 - Warning: trimming empty <i>
+line 384 column 9,866 - Warning: missing <li>
+line 384 column 10,162 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 10,162 - Warning: unknown attribute "ad-src"
+line 384 column 10,162 - Warning: <img> lacks "alt" attribute
+line 384 column 10,162 - Warning: <img> lacks "src" attribute
+line 384 column 10,448 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 10,510 - Warning: trimming empty <i>
+line 384 column 10,544 - Warning: missing <li>
+line 384 column 11,099 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 11,099 - Warning: unknown attribute "ad-src"
+line 384 column 11,099 - Warning: <img> lacks "alt" attribute
+line 384 column 11,099 - Warning: <img> lacks "src" attribute
+line 384 column 11,422 - Warning: trimming empty <i>
+line 384 column 11,456 - Warning: missing <li>
+line 384 column 12,209 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 12,209 - Warning: unknown attribute "ad-src"
+line 384 column 12,209 - Warning: <img> lacks "alt" attribute
+line 384 column 12,209 - Warning: <img> lacks "src" attribute
+line 384 column 12,516 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 12,578 - Warning: trimming empty <i>
+line 384 column 12,612 - Warning: missing <li>
+line 384 column 13,476 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 13,476 - Warning: unknown attribute "ad-src"
+line 384 column 13,476 - Warning: <img> lacks "alt" attribute
+line 384 column 13,476 - Warning: <img> lacks "src" attribute
+line 384 column 13,829 - Warning: trimming empty <i>
+line 384 column 13,863 - Warning: missing <li>
+line 384 column 14,533 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 14,533 - Warning: unknown attribute "ad-src"
+line 384 column 14,533 - Warning: <img> lacks "alt" attribute
+line 384 column 14,533 - Warning: <img> lacks "src" attribute
+line 384 column 14,905 - Warning: trimming empty <i>
+line 384 column 14,939 - Warning: missing <li>
+line 384 column 15,388 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 15,388 - Warning: unknown attribute "ad-src"
+line 384 column 15,388 - Warning: <img> lacks "alt" attribute
+line 384 column 15,388 - Warning: <img> lacks "src" attribute
+line 384 column 15,725 - Warning: trimming empty <i>
+line 384 column 15,759 - Warning: missing <li>
+line 384 column 15,923 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 16,299 - Warning: <img> attribute with missing trailing quote mark
+line 384 column 16,299 - Warning: unknown attribute "ad-src"
+line 384 column 16,299 - Warning: <img> lacks "alt" attribute
+line 384 column 16,299 - Warning: <img> lacks "src" attribute
+line 384 column 16,629 - Warning: trimming empty <i>
+line 384 column 16,663 - Warning: missing <li>
+line 384 column 16,961 - Warning: Warning: unescaped & which should be written as &amp;
+line 384 column 17,198 - Warning: unknown attribute "ad-src"
+line 384 column 17,198 - Warning: <img> lacks "src" attribute
+line 463 column 1 - Warning: <style> lacks "type" attribute
+line 463 column 1 - Warning: <style> isn't allowed in <div> elements
+line 561 column 18 - Warning: input dropping value "image" for repeated attribute "type"
+line 769 column 30 - Warning: trimming empty <div>
+line 770 column 23 - Warning: trimming empty <div>
+line 775 column 1 - Error: <footer> is not recognized!
+line 775 column 1 - Warning: discarding unexpected <footer>
+line 816 column 176 - Warning: <img> attribute "height" has invalid value "32px"
+line 820 column 109 - Warning: <img> attribute "height" has invalid value "32px"
+line 820 column 109 - Warning: <img> attribute "width" has invalid value "32px"
+line 821 column 90 - Warning: <img> attribute "height" has invalid value "32px"
+line 821 column 90 - Warning: <img> attribute "width" has invalid value "32px"
+line 822 column 101 - Warning: <img> attribute "height" has invalid value "32px"
+line 822 column 101 - Warning: <img> attribute "width" has invalid value "32px"
+line 823 column 96 - Warning: <img> attribute "height" has invalid value "32px"
+line 823 column 96 - Warning: <img> attribute "width" has invalid value "32px"
+line 824 column 113 - Warning: <img> attribute "height" has invalid value "32px"
+line 824 column 113 - Warning: <img> attribute "width" has invalid value "32px"
+line 825 column 103 - Warning: <img> attribute "height" has invalid value "32px"
+line 825 column 103 - Warning: <img> attribute "width" has invalid value "32px"
+line 836 column -3 - Warning: discarding unexpected </footer>
+line 846 column 17 - Warning: unknown attribute "data-dismiss"
+line 1,015 column 1 - Warning: <meta> lacks "content" attribute
+line 1,015 column 1 - Warning: <meta> isn't allowed in <body> elements
+line 1,017 column 1 - Warning: link lacks "type" attribute
+line 1,017 column 1 - Warning: link isn't allowed in <body> elements
+line 1,018 column 63 - Warning: Warning: unescaped & or unknown entity "&display"
+line 1,018 column 63 - Warning: <link> lacks "type" attribute
+line 1,018 column 63 - Warning: <link> isn't allowed in <body> elements
+line 1,057 column -1 - Warning: trimming empty <div>
+line 1,063 column -1 - Warning: trimming empty <div>
+line 1,068 column 31 - Warning: trimming empty <div>
+line 1,073 column 5 - Warning: trimming empty <span>
+line 1,074 column 5 - Warning: trimming empty <span>
+line 1,075 column 5 - Warning: trimming empty <span>
+line 1,079 column 9 - Warning: unknown attribute "placeholder"
+line 1,089 column 2 - Warning: img lacks "alt" attribute
+line 1,092 column 1 - Warning: <script> lacks "type" attribute
+line 1,105 column 10 - Warning: <script> lacks "type" attribute
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+302 warnings, 5 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+The alt attribute should be used to give a short description
+of an image; longer descriptions should be given with the
+longdesc attribute which takes a URL linked to the description.
+These measures are needed for people using non-graphical browsers.
+For further advice on how to make your pages accessible
+see "http://www.w3.org/WAI/GL". You may also want to try
+"http://www.cast.org/bobby/" which is a free Web-based
+service for checking URLs for accessibility.

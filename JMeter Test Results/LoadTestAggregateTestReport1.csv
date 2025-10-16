@@ -1,0 +1,5 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Visit Home Page,10,604,193,1430,1430,1680,139,1680,0.00%,1.95733,146.79,0.24
+Visit Careers Page,10,1031,1063,1558,1558,1617,352,1617,0.00%,2.03542,108.1,0.27
+Visit Leadership Page,10,141,52,226,226,620,37,620,0.00%,2.63158,245.98,0.36
+TOTAL,30,592,245,1492,1558,1680,37,1680,0.00%,4.51875,333.75,0.59
