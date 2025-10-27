@@ -1,0 +1,6 @@
+This is day#5 training of JMeter
+JMeter is a performance testing tool
+JMeter is an open source tool
+JMeter is built on Java
+JMeter has a nice simple GUI
+JMeter can run on CLI as well
