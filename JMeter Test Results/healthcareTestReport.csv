@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1761732968961,2132,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,31400,3743,22,22,null,0,48,753
+1761732968974,982,Navigate to the login page,200,OK,Thread Group 1-1,text,true,,8123,522,10,10,https://katalon-demo-cura.herokuapp.com/profile.php#login,981,0,753
+1761732969967,467,Click on Login button,200,OK,Thread Group 1-1,text,true,,9927,1306,15,15,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732969967,235,Click on Login button-0,302,Found,Thread Group 1-1,text,true,,843,694,15,15,https://katalon-demo-cura.herokuapp.com/authenticate.php,235,0,0
+1761732970202,232,Click on Login button-1,200,OK,Thread Group 1-1,text,true,,9084,612,15,15,https://katalon-demo-cura.herokuapp.com/#appointment,232,0,0
+1761732970445,229,Click on Book Appointment button,200,OK,Thread Group 1-1,text,true,,7463,765,17,17,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,229,0,0
+1761732970685,454,Click on Logout button,200,OK,Thread Group 1-1,text,true,,5887,1150,22,22,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732970685,226,Click on Logout button-0,302,Found,Thread Group 1-1,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,226,0,0
+1761732970912,227,Click on Logout button-1,200,OK,Thread Group 1-1,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732969165,2025,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,31401,3744,22,22,null,0,46,680
+1761732969176,907,Navigate to the login page,200,OK,Thread Group 1-3,text,true,,8123,522,12,12,https://katalon-demo-cura.herokuapp.com/profile.php#login,907,0,680
+1761732970095,450,Click on Login button,200,OK,Thread Group 1-3,text,true,,9927,1306,16,16,https://katalon-demo-cura.herokuapp.com/#appointment,220,0,0
+1761732970095,220,Click on Login button-0,302,Found,Thread Group 1-3,text,true,,843,694,16,16,https://katalon-demo-cura.herokuapp.com/authenticate.php,220,0,0
+1761732970316,229,Click on Login button-1,200,OK,Thread Group 1-3,text,true,,9084,612,16,16,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732970555,224,Click on Book Appointment button,200,OK,Thread Group 1-3,text,true,,7464,766,18,18,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,224,0,0
+1761732970790,444,Click on Logout button,200,OK,Thread Group 1-3,text,true,,5887,1150,22,22,https://katalon-demo-cura.herokuapp.com/,220,0,0
+1761732970790,220,Click on Logout button-0,302,Found,Thread Group 1-3,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,220,0,0
+1761732971010,224,Click on Logout button-1,200,OK,Thread Group 1-3,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,224,0,0
+1761732969268,2010,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,31400,3743,22,22,null,0,51,667
+1761732969280,889,Navigate to the login page,200,OK,Thread Group 1-4,text,true,,8123,522,12,12,https://katalon-demo-cura.herokuapp.com/profile.php#login,888,0,667
+1761732970182,448,Click on Login button,200,OK,Thread Group 1-4,text,true,,9927,1306,17,17,https://katalon-demo-cura.herokuapp.com/#appointment,220,0,0
+1761732970182,220,Click on Login button-0,302,Found,Thread Group 1-4,text,true,,843,694,17,17,https://katalon-demo-cura.herokuapp.com/authenticate.php,220,0,0
+1761732970403,227,Click on Login button-1,200,OK,Thread Group 1-4,text,true,,9084,612,17,17,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732970642,230,Click on Book Appointment button,200,OK,Thread Group 1-4,text,true,,7463,765,19,19,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,229,0,0
+1761732970884,443,Click on Logout button,200,OK,Thread Group 1-4,text,true,,5887,1150,22,22,https://katalon-demo-cura.herokuapp.com/,222,0,0
+1761732970884,222,Click on Logout button-0,302,Found,Thread Group 1-4,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,222,0,0
+1761732971107,220,Click on Logout button-1,200,OK,Thread Group 1-4,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,220,0,0
+1761732969063,2224,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,31399,3748,21,21,null,0,47,747
+1761732969074,993,Navigate to the login page,200,OK,Thread Group 1-2,text,true,,8123,522,11,11,https://katalon-demo-cura.herokuapp.com/profile.php#login,993,0,747
+1761732970079,491,Click on Login button,200,OK,Thread Group 1-2,text,true,,9921,1306,16,16,https://katalon-demo-cura.herokuapp.com/#appointment,244,0,0
+1761732970079,244,Click on Login button-0,302,Found,Thread Group 1-2,text,true,,843,694,16,16,https://katalon-demo-cura.herokuapp.com/authenticate.php,244,0,0
+1761732970324,246,Click on Login button-1,200,OK,Thread Group 1-2,text,true,,9078,612,16,16,https://katalon-demo-cura.herokuapp.com/#appointment,244,0,0
+1761732970580,247,Click on Book Appointment button,200,OK,Thread Group 1-2,text,true,,7468,770,19,19,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,247,0,0
+1761732970839,493,Click on Logout button,200,OK,Thread Group 1-2,text,true,,5887,1150,21,21,https://katalon-demo-cura.herokuapp.com/,247,0,0
+1761732970839,247,Click on Logout button-0,302,Found,Thread Group 1-2,text,true,,843,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,247,0,0
+1761732971086,246,Click on Logout button-1,200,OK,Thread Group 1-2,text,true,,5044,563,21,21,https://katalon-demo-cura.herokuapp.com/,246,0,0
+1761732969368,2170,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,31417,3748,22,22,null,0,47,729
+1761732969380,969,Navigate to the login page,200,OK,Thread Group 1-5,text,true,,8123,522,14,14,https://katalon-demo-cura.herokuapp.com/profile.php#login,969,0,729
+1761732970360,483,Click on Login button,200,OK,Thread Group 1-5,text,true,,9939,1306,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,238,0,0
+1761732970360,238,Click on Login button-0,302,Found,Thread Group 1-5,text,true,,843,694,19,19,https://katalon-demo-cura.herokuapp.com/authenticate.php,238,0,0
+1761732970598,245,Click on Login button-1,200,OK,Thread Group 1-5,text,true,,9096,612,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,245,0,0
+1761732970855,241,Click on Book Appointment button,200,OK,Thread Group 1-5,text,true,,7468,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,241,0,0
+1761732971107,477,Click on Logout button,200,OK,Thread Group 1-5,text,true,,5887,1150,22,22,https://katalon-demo-cura.herokuapp.com/,238,0,0
+1761732971107,238,Click on Logout button-0,302,Found,Thread Group 1-5,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,238,0,0
+1761732971346,238,Click on Logout button-1,200,OK,Thread Group 1-5,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,238,0,0
+1761732969470,2098,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,,true,,31412,3743,22,22,null,0,49,696
+1761732969481,930,Navigate to the login page,200,OK,Thread Group 1-6,text,true,,8123,522,15,15,https://katalon-demo-cura.herokuapp.com/profile.php#login,930,0,696
+1761732970422,468,Click on Login button,200,OK,Thread Group 1-6,text,true,,9939,1306,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732970422,233,Click on Login button-0,302,Found,Thread Group 1-6,text,true,,843,694,19,19,https://katalon-demo-cura.herokuapp.com/authenticate.php,233,0,0
+1761732970655,235,Click on Login button-1,200,OK,Thread Group 1-6,text,true,,9096,612,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732970902,237,Click on Book Appointment button,200,OK,Thread Group 1-6,text,true,,7463,765,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,236,0,0
+1761732971152,463,Click on Logout button,200,OK,Thread Group 1-6,text,true,,5887,1150,22,22,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732971152,227,Click on Logout button-0,302,Found,Thread Group 1-6,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,227,0,0
+1761732971379,236,Click on Logout button-1,200,OK,Thread Group 1-6,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732969678,2030,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-8,,true,,31425,3748,22,22,null,0,44,685
+1761732969689,910,Navigate to the login page,200,OK,Thread Group 1-8,text,true,,8123,522,17,17,https://katalon-demo-cura.herokuapp.com/profile.php#login,910,0,685
+1761732970610,450,Click on Login button,200,OK,Thread Group 1-8,text,true,,9951,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,223,0,0
+1761732970610,223,Click on Login button-0,302,Found,Thread Group 1-8,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,223,0,0
+1761732970834,226,Click on Login button-1,200,OK,Thread Group 1-8,text,true,,9096,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,226,0,0
+1761732971070,225,Click on Book Appointment button,200,OK,Thread Group 1-8,text,true,,7468,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,225,0,0
+1761732971306,445,Click on Logout button,200,OK,Thread Group 1-8,text,true,,5883,1150,22,22,https://katalon-demo-cura.herokuapp.com/,220,0,0
+1761732971306,220,Click on Logout button-0,302,Found,Thread Group 1-8,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,220,0,0
+1761732971526,225,Click on Logout button-1,200,OK,Thread Group 1-8,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,224,0,0
+1761732969571,2248,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-7,,true,,31422,3751,22,22,null,0,46,755
+1761732969583,1005,Navigate to the login page,200,OK,Thread Group 1-7,text,true,,8123,522,16,16,https://katalon-demo-cura.herokuapp.com/profile.php#login,1005,0,755
+1761732970599,496,Click on Login button,200,OK,Thread Group 1-7,text,true,,9945,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,246,0,0
+1761732970599,246,Click on Login button-0,302,Found,Thread Group 1-7,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,246,0,0
+1761732970845,250,Click on Login button-1,200,OK,Thread Group 1-7,text,true,,9090,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,250,0,0
+1761732971107,252,Click on Book Appointment button,200,OK,Thread Group 1-7,text,true,,7471,773,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,252,0,0
+1761732971369,495,Click on Logout button,200,OK,Thread Group 1-7,text,true,,5883,1150,22,22,https://katalon-demo-cura.herokuapp.com/,245,0,0
+1761732971369,245,Click on Logout button-0,302,Found,Thread Group 1-7,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,245,0,0
+1761732971615,249,Click on Logout button-1,200,OK,Thread Group 1-7,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,249,0,0
+1761732969774,2100,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-9,,true,,31428,3743,22,22,null,0,45,705
+1761732969786,940,Navigate to the login page,200,OK,Thread Group 1-9,text,true,,8135,522,18,18,https://katalon-demo-cura.herokuapp.com/profile.php#login,936,0,705
+1761732970736,467,Click on Login button,200,OK,Thread Group 1-9,text,true,,9951,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,232,0,0
+1761732970736,232,Click on Login button-0,302,Found,Thread Group 1-9,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,232,0,0
+1761732970968,235,Click on Login button-1,200,OK,Thread Group 1-9,text,true,,9096,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732971214,232,Click on Book Appointment button,200,OK,Thread Group 1-9,text,true,,7463,765,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,232,0,0
+1761732971457,461,Click on Logout button,200,OK,Thread Group 1-9,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732971457,230,Click on Logout button-0,302,Found,Thread Group 1-9,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,230,0,0
+1761732971687,231,Click on Logout button-1,200,OK,Thread Group 1-9,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732969878,2114,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-10,,true,,31432,3747,22,22,null,0,47,710
+1761732969891,943,Navigate to the login page,200,OK,Thread Group 1-10,text,true,,8135,522,19,19,https://katalon-demo-cura.herokuapp.com/profile.php#login,943,0,710
+1761732970844,467,Click on Login button,200,OK,Thread Group 1-10,text,true,,9951,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732970844,235,Click on Login button-0,302,Found,Thread Group 1-10,text,true,,855,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,235,0,0
+1761732971079,232,Click on Login button-1,200,OK,Thread Group 1-10,text,true,,9096,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,232,0,0
+1761732971322,238,Click on Book Appointment button,200,OK,Thread Group 1-10,text,true,,7467,769,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,238,0,0
+1761732971571,466,Click on Logout button,200,OK,Thread Group 1-10,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,234,0,0
+1761732971571,234,Click on Logout button-0,302,Found,Thread Group 1-10,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,234,0,0
+1761732971805,232,Click on Logout button-1,200,OK,Thread Group 1-10,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,232,0,0
+1761732969979,2063,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-11,,true,,31430,3751,21,21,null,0,45,677
+1761732969990,905,Navigate to the login page,200,OK,Thread Group 1-11,text,true,,8135,522,19,19,https://katalon-demo-cura.herokuapp.com/profile.php#login,905,0,677
+1761732970907,462,Click on Login button,200,OK,Thread Group 1-11,text,true,,9945,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732970907,231,Click on Login button-0,302,Found,Thread Group 1-11,text,true,,855,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,231,0,0
+1761732971139,230,Click on Login button-1,200,OK,Thread Group 1-11,text,true,,9090,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732971380,228,Click on Book Appointment button,200,OK,Thread Group 1-11,text,true,,7471,773,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,228,0,0
+1761732971619,468,Click on Logout button,200,OK,Thread Group 1-11,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732971619,236,Click on Logout button-0,302,Found,Thread Group 1-11,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,236,0,0
+1761732971856,231,Click on Logout button-1,200,OK,Thread Group 1-11,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732970184,2080,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-13,,true,,31428,3747,22,22,null,0,46,700
+1761732970195,934,Navigate to the login page,200,OK,Thread Group 1-13,text,true,,8135,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,934,0,700
+1761732971143,458,Click on Login button,200,OK,Thread Group 1-13,text,true,,9951,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732971143,228,Click on Login button-0,302,Found,Thread Group 1-13,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,228,0,0
+1761732971372,229,Click on Login button-1,200,OK,Thread Group 1-13,text,true,,9096,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732971612,231,Click on Book Appointment button,200,OK,Thread Group 1-13,text,true,,7463,769,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,230,0,0
+1761732971853,457,Click on Logout button,200,OK,Thread Group 1-13,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,228,0,0
+1761732971853,228,Click on Logout button-0,302,Found,Thread Group 1-13,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,228,0,0
+1761732972081,229,Click on Logout button-1,200,OK,Thread Group 1-13,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,228,0,0
+1761732970082,2191,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-12,,true,,31419,3744,21,21,null,0,44,735
+1761732970093,980,Navigate to the login page,200,OK,Thread Group 1-12,text,true,,8135,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,980,0,735
+1761732971084,483,Click on Login button,200,OK,Thread Group 1-12,text,true,,9945,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,237,0,0
+1761732971084,237,Click on Login button-0,302,Found,Thread Group 1-12,text,true,,855,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,237,0,0
+1761732971322,245,Click on Login button-1,200,OK,Thread Group 1-12,text,true,,9090,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,245,0,0
+1761732971578,244,Click on Book Appointment button,200,OK,Thread Group 1-12,text,true,,7460,766,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,244,0,0
+1761732971833,484,Click on Logout button,200,OK,Thread Group 1-12,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,243,0,0
+1761732971833,243,Click on Logout button-0,302,Found,Thread Group 1-12,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,243,0,0
+1761732972076,241,Click on Logout button-1,200,OK,Thread Group 1-12,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,241,0,0
+1761732970285,2047,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-14,,true,,31418,3743,21,21,null,0,43,679
+1761732970295,909,Navigate to the login page,200,OK,Thread Group 1-14,text,true,,8135,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,909,0,679
+1761732971216,457,Click on Login button,200,OK,Thread Group 1-14,text,true,,9945,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,224,0,0
+1761732971216,224,Click on Login button-0,302,Found,Thread Group 1-14,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,224,0,0
+1761732971440,233,Click on Login button-1,200,OK,Thread Group 1-14,text,true,,9090,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732971684,229,Click on Book Appointment button,200,OK,Thread Group 1-14,text,true,,7459,765,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,229,0,0
+1761732971923,452,Click on Logout button,200,OK,Thread Group 1-14,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732971923,226,Click on Logout button-0,302,Found,Thread Group 1-14,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,226,0,0
+1761732972149,226,Click on Logout button-1,200,OK,Thread Group 1-14,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732970389,2026,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-15,,true,,31417,3746,21,21,null,0,44,682
+1761732970401,910,Navigate to the login page,200,OK,Thread Group 1-15,text,true,,8135,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,910,0,682
+1761732971322,450,Click on Login button,200,OK,Thread Group 1-15,text,true,,9941,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,223,0,0
+1761732971322,223,Click on Login button-0,302,Found,Thread Group 1-15,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,223,0,0
+1761732971545,227,Click on Login button-1,200,OK,Thread Group 1-15,text,true,,9086,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732971783,225,Click on Book Appointment button,200,OK,Thread Group 1-15,text,true,,7462,768,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,225,0,0
+1761732972018,441,Click on Logout button,200,OK,Thread Group 1-15,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,221,0,0
+1761732972018,221,Click on Logout button-0,302,Found,Thread Group 1-15,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,221,0,0
+1761732972239,220,Click on Logout button-1,200,OK,Thread Group 1-15,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,220,0,0
+1761732970489,2015,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-16,,true,,31414,3743,21,21,null,0,45,673
+1761732970499,896,Navigate to the login page,200,OK,Thread Group 1-16,text,true,,8135,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,895,0,673
+1761732971406,450,Click on Login button,200,OK,Thread Group 1-16,text,true,,9941,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,220,0,0
+1761732971406,220,Click on Login button-0,302,Found,Thread Group 1-16,text,true,,855,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,220,0,0
+1761732971626,230,Click on Login button-1,200,OK,Thread Group 1-16,text,true,,9086,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732971867,224,Click on Book Appointment button,200,OK,Thread Group 1-16,text,true,,7459,765,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,224,0,0
+1761732972103,445,Click on Logout button,200,OK,Thread Group 1-16,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,219,0,0
+1761732972103,219,Click on Logout button-0,302,Found,Thread Group 1-16,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,219,0,0
+1761732972322,226,Click on Logout button-1,200,OK,Thread Group 1-16,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732970591,2081,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-17,,true,,31410,3747,21,21,null,0,43,700
+1761732970603,931,Navigate to the login page,200,OK,Thread Group 1-17,text,true,,8135,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,931,0,700
+1761732971545,459,Click on Login button,200,OK,Thread Group 1-17,text,true,,9937,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732971545,229,Click on Login button-0,302,Found,Thread Group 1-17,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,229,0,0
+1761732971775,229,Click on Login button-1,200,OK,Thread Group 1-17,text,true,,9086,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732972015,231,Click on Book Appointment button,200,OK,Thread Group 1-17,text,true,,7463,769,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,231,0,0
+1761732972255,460,Click on Logout button,200,OK,Thread Group 1-17,text,true,,5875,1150,21,21,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732972255,230,Click on Logout button-0,302,Found,Thread Group 1-17,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,230,0,0
+1761732972485,230,Click on Logout button-1,200,OK,Thread Group 1-17,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732970693,2057,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-18,,true,,31416,3747,21,21,null,0,45,692
+1761732970705,920,Navigate to the login page,200,OK,Thread Group 1-18,text,true,,8135,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,920,0,692
+1761732971636,458,Click on Login button,200,OK,Thread Group 1-18,text,true,,9943,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732971636,228,Click on Login button-0,302,Found,Thread Group 1-18,text,true,,851,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,228,0,0
+1761732971864,230,Click on Login button-1,200,OK,Thread Group 1-18,text,true,,9092,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732972105,228,Click on Book Appointment button,200,OK,Thread Group 1-18,text,true,,7463,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,228,0,0
+1761732972344,451,Click on Logout button,200,OK,Thread Group 1-18,text,true,,5875,1150,21,21,https://katalon-demo-cura.herokuapp.com/,225,0,0
+1761732972344,225,Click on Logout button-0,302,Found,Thread Group 1-18,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,225,0,0
+1761732972569,226,Click on Logout button-1,200,OK,Thread Group 1-18,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732970898,2047,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-20,,true,,31403,3748,22,22,null,0,58,689
+1761732970912,914,Navigate to the login page,200,OK,Thread Group 1-20,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,914,0,689
+1761732971838,450,Click on Login button,200,OK,Thread Group 1-20,text,true,,9937,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,222,0,0
+1761732971838,222,Click on Login button-0,302,Found,Thread Group 1-20,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,222,0,0
+1761732972060,228,Click on Login button-1,200,OK,Thread Group 1-20,text,true,,9086,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732972298,230,Click on Book Appointment button,200,OK,Thread Group 1-20,text,true,,7464,770,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,230,0,0
+1761732972550,453,Click on Logout button,200,OK,Thread Group 1-20,text,true,,5871,1150,22,22,https://katalon-demo-cura.herokuapp.com/,224,0,0
+1761732972550,224,Click on Logout button-0,302,Found,Thread Group 1-20,text,true,,835,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,224,0,0
+1761732972774,229,Click on Logout button-1,200,OK,Thread Group 1-20,text,true,,5036,563,22,22,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732970796,2168,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-19,,true,,31408,3747,21,21,null,0,47,720
+1761732970807,964,Navigate to the login page,200,OK,Thread Group 1-19,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,964,0,720
+1761732971782,476,Click on Login button,200,OK,Thread Group 1-19,text,true,,9943,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,236,0,0
+1761732971782,236,Click on Login button-0,302,Found,Thread Group 1-19,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,236,0,0
+1761732972019,239,Click on Login button-1,200,OK,Thread Group 1-19,text,true,,9092,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,239,0,0
+1761732972269,252,Click on Book Appointment button,200,OK,Thread Group 1-19,text,true,,7463,769,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,252,0,0
+1761732972535,476,Click on Logout button,200,OK,Thread Group 1-19,text,true,,5871,1150,21,21,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732972535,236,Click on Logout button-0,302,Found,Thread Group 1-19,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,236,0,0
+1761732972771,240,Click on Logout button-1,200,OK,Thread Group 1-19,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,240,0,0
+1761732970999,2131,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-21,,true,,31402,3751,21,21,null,0,48,711
+1761732971009,947,Navigate to the login page,200,OK,Thread Group 1-21,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,947,0,711
+1761732971968,477,Click on Login button,200,OK,Thread Group 1-21,text,true,,9937,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,236,0,0
+1761732971968,236,Click on Login button-0,302,Found,Thread Group 1-21,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,236,0,0
+1761732972204,241,Click on Login button-1,200,OK,Thread Group 1-21,text,true,,9086,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,241,0,0
+1761732972459,236,Click on Book Appointment button,200,OK,Thread Group 1-21,text,true,,7463,773,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,235,0,0
+1761732972706,471,Click on Logout button,200,OK,Thread Group 1-21,text,true,,5871,1150,21,21,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732972706,236,Click on Logout button-0,302,Found,Thread Group 1-21,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,236,0,0
+1761732972943,234,Click on Logout button-1,200,OK,Thread Group 1-21,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,234,0,0
+1761732971102,2149,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-22,,true,,31398,3747,22,22,null,0,59,721
+1761732971116,960,Navigate to the login page,200,OK,Thread Group 1-22,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,960,0,721
+1761732972087,472,Click on Login button,200,OK,Thread Group 1-22,text,true,,9937,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732972087,234,Click on Login button-0,302,Found,Thread Group 1-22,text,true,,851,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,234,0,0
+1761732972322,237,Click on Login button-1,200,OK,Thread Group 1-22,text,true,,9086,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,237,0,0
+1761732972580,238,Click on Book Appointment button,200,OK,Thread Group 1-22,text,true,,7459,769,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,236,0,0
+1761732972829,479,Click on Logout button,200,OK,Thread Group 1-22,text,true,,5871,1150,22,22,https://katalon-demo-cura.herokuapp.com/,235,0,0
+1761732972829,235,Click on Logout button-0,302,Found,Thread Group 1-22,text,true,,835,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,235,0,0
+1761732973065,243,Click on Logout button-1,200,OK,Thread Group 1-22,text,true,,5036,563,22,22,https://katalon-demo-cura.herokuapp.com/,243,0,0
+1761732971204,2183,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-23,,true,,31395,3748,22,22,null,0,65,723
+1761732971215,971,Navigate to the login page,200,OK,Thread Group 1-23,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,971,0,723
+1761732972197,484,Click on Login button,200,OK,Thread Group 1-23,text,true,,9933,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,240,0,0
+1761732972197,240,Click on Login button-0,302,Found,Thread Group 1-23,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,240,0,0
+1761732972438,243,Click on Login button-1,200,OK,Thread Group 1-23,text,true,,9082,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,243,0,0
+1761732972706,245,Click on Book Appointment button,200,OK,Thread Group 1-23,text,true,,7460,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,245,0,0
+1761732972968,483,Click on Logout button,200,OK,Thread Group 1-23,text,true,,5871,1150,22,22,https://katalon-demo-cura.herokuapp.com/,242,0,0
+1761732972968,242,Click on Logout button-0,302,Found,Thread Group 1-23,text,true,,835,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,242,0,0
+1761732973210,241,Click on Logout button-1,200,OK,Thread Group 1-23,text,true,,5036,563,22,22,https://katalon-demo-cura.herokuapp.com/,241,0,0
+1761732971305,2088,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-24,,true,,31399,3746,21,21,null,0,63,688
+1761732971317,922,Navigate to the login page,200,OK,Thread Group 1-24,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,922,0,688
+1761732972250,469,Click on Login button,200,OK,Thread Group 1-24,text,true,,9939,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732972250,235,Click on Login button-0,302,Found,Thread Group 1-24,text,true,,851,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,235,0,0
+1761732972485,234,Click on Login button-1,200,OK,Thread Group 1-24,text,true,,9088,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732972737,240,Click on Book Appointment button,200,OK,Thread Group 1-24,text,true,,7458,768,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,240,0,0
+1761732972999,457,Click on Logout button,200,OK,Thread Group 1-24,text,true,,5871,1150,21,21,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732972999,226,Click on Logout button-0,302,Found,Thread Group 1-24,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,226,0,0
+1761732973225,231,Click on Logout button-1,200,OK,Thread Group 1-24,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732971408,1987,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-25,,true,,31400,3747,20,20,null,0,74,664
+1761732971420,884,Navigate to the login page,200,OK,Thread Group 1-25,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,884,0,664
+1761732972315,441,Click on Login button,200,OK,Thread Group 1-25,text,true,,9939,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,221,0,0
+1761732972315,221,Click on Login button-0,302,Found,Thread Group 1-25,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,221,0,0
+1761732972537,219,Click on Login button-1,200,OK,Thread Group 1-25,text,true,,9088,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,219,0,0
+1761732972783,224,Click on Book Appointment button,200,OK,Thread Group 1-25,text,true,,7459,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,224,0,0
+1761732973030,438,Click on Logout button,200,OK,Thread Group 1-25,text,true,,5871,1150,20,20,https://katalon-demo-cura.herokuapp.com/,219,0,0
+1761732973030,219,Click on Logout button-0,302,Found,Thread Group 1-25,text,true,,835,587,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,219,0,0
+1761732973250,218,Click on Logout button-1,200,OK,Thread Group 1-25,text,true,,5036,563,20,20,https://katalon-demo-cura.herokuapp.com/,218,0,0
+1761732971509,2026,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-26,,true,,31391,3748,21,21,null,0,67,679
+1761732971520,905,Navigate to the login page,200,OK,Thread Group 1-26,text,true,,8131,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,905,0,679
+1761732972444,450,Click on Login button,200,OK,Thread Group 1-26,text,true,,9929,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,224,0,0
+1761732972444,224,Click on Login button-0,302,Found,Thread Group 1-26,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,224,0,0
+1761732972668,226,Click on Login button-1,200,OK,Thread Group 1-26,text,true,,9082,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,226,0,0
+1761732972906,225,Click on Book Appointment button,200,OK,Thread Group 1-26,text,true,,7460,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,224,0,0
+1761732973155,446,Click on Logout button,200,OK,Thread Group 1-26,text,true,,5871,1150,21,21,https://katalon-demo-cura.herokuapp.com/,222,0,0
+1761732973155,222,Click on Logout button-0,302,Found,Thread Group 1-26,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,222,0,0
+1761732973377,224,Click on Logout button-1,200,OK,Thread Group 1-26,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,224,0,0
+1761732971610,2075,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-27,,true,,31387,3744,21,21,null,0,62,696
+1761732971622,926,Navigate to the login page,200,OK,Thread Group 1-27,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,926,0,696
+1761732972565,459,Click on Login button,200,OK,Thread Group 1-27,text,true,,9929,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732972565,230,Click on Login button-0,302,Found,Thread Group 1-27,text,true,,847,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,230,0,0
+1761732972795,229,Click on Login button-1,200,OK,Thread Group 1-27,text,true,,9082,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732973046,231,Click on Book Appointment button,200,OK,Thread Group 1-27,text,true,,7456,766,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,230,0,0
+1761732973287,459,Click on Logout button,200,OK,Thread Group 1-27,text,true,,5871,1150,21,21,https://katalon-demo-cura.herokuapp.com/,232,0,0
+1761732973287,232,Click on Logout button-0,302,Found,Thread Group 1-27,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,232,0,0
+1761732973519,227,Click on Logout button-1,200,OK,Thread Group 1-27,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732971713,2068,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-28,,true,,31391,3748,21,21,null,0,58,689
+1761732971724,919,Navigate to the login page,200,OK,Thread Group 1-28,text,true,,8131,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,919,0,689
+1761732972659,461,Click on Login button,200,OK,Thread Group 1-28,text,true,,9929,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732972659,229,Click on Login button-0,302,Found,Thread Group 1-28,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,229,0,0
+1761732972888,232,Click on Login button-1,200,OK,Thread Group 1-28,text,true,,9082,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,232,0,0
+1761732973139,229,Click on Book Appointment button,200,OK,Thread Group 1-28,text,true,,7460,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,229,0,0
+1761732973379,459,Click on Logout button,200,OK,Thread Group 1-28,text,true,,5871,1150,21,21,https://katalon-demo-cura.herokuapp.com/,228,0,0
+1761732973379,228,Click on Logout button-0,302,Found,Thread Group 1-28,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,228,0,0
+1761732973607,231,Click on Logout button-1,200,OK,Thread Group 1-28,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732971815,2161,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-29,,true,,31392,3747,22,22,null,0,54,724
+1761732971829,966,Navigate to the login page,200,OK,Thread Group 1-29,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,966,0,724
+1761732972813,479,Click on Login button,200,OK,Thread Group 1-29,text,true,,9935,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,238,0,0
+1761732972813,238,Click on Login button-0,302,Found,Thread Group 1-29,text,true,,847,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,238,0,0
+1761732973051,241,Click on Login button-1,200,OK,Thread Group 1-29,text,true,,9088,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,241,0,0
+1761732973303,242,Click on Book Appointment button,200,OK,Thread Group 1-29,text,true,,7459,769,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,242,0,0
+1761732973556,474,Click on Logout button,200,OK,Thread Group 1-29,text,true,,5871,1150,22,22,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732973556,236,Click on Logout button-0,302,Found,Thread Group 1-29,text,true,,835,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,236,0,0
+1761732973793,237,Click on Logout button-1,200,OK,Thread Group 1-29,text,true,,5036,563,22,22,https://katalon-demo-cura.herokuapp.com/,237,0,0
+1761732972019,2057,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-31,,true,,31393,3748,22,22,null,0,46,683
+1761732972029,912,Navigate to the login page,200,OK,Thread Group 1-31,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,911,0,683
+1761732972953,460,Click on Login button,200,OK,Thread Group 1-31,text,true,,9935,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732972953,230,Click on Login button-0,302,Found,Thread Group 1-31,text,true,,847,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,230,0,0
+1761732973184,229,Click on Login button-1,200,OK,Thread Group 1-31,text,true,,9088,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732973426,229,Click on Book Appointment button,200,OK,Thread Group 1-31,text,true,,7460,770,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,227,0,0
+1761732973665,456,Click on Logout button,200,OK,Thread Group 1-31,text,true,,5871,1150,22,22,https://katalon-demo-cura.herokuapp.com/,228,0,0
+1761732973665,228,Click on Logout button-0,302,Found,Thread Group 1-31,text,true,,835,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,228,0,0
+1761732973893,228,Click on Logout button-1,200,OK,Thread Group 1-31,text,true,,5036,563,22,22,https://katalon-demo-cura.herokuapp.com/,228,0,0
+1761732971917,2155,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-30,,true,,31395,3750,21,21,null,0,56,714
+1761732971929,954,Navigate to the login page,200,OK,Thread Group 1-30,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,954,0,714
+1761732972906,478,Click on Login button,200,OK,Thread Group 1-30,text,true,,9935,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,238,0,0
+1761732972906,238,Click on Login button-0,302,Found,Thread Group 1-30,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,238,0,0
+1761732973144,240,Click on Login button-1,200,OK,Thread Group 1-30,text,true,,9088,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,240,0,0
+1761732973395,249,Click on Book Appointment button,200,OK,Thread Group 1-30,text,true,,7462,772,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,249,0,0
+1761732973654,474,Click on Logout button,200,OK,Thread Group 1-30,text,true,,5871,1150,21,21,https://katalon-demo-cura.herokuapp.com/,234,0,0
+1761732973654,234,Click on Logout button-0,302,Found,Thread Group 1-30,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,234,0,0
+1761732973889,239,Click on Logout button-1,200,OK,Thread Group 1-30,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,239,0,0
+1761732972123,1988,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-32,,true,,31387,3748,20,20,null,0,48,660
+1761732972135,882,Navigate to the login page,200,OK,Thread Group 1-32,text,true,,8127,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,882,0,660
+1761732973030,441,Click on Login button,200,OK,Thread Group 1-32,text,true,,9929,1306,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,219,0,0
+1761732973030,219,Click on Login button-0,302,Found,Thread Group 1-32,text,true,,847,694,19,19,https://katalon-demo-cura.herokuapp.com/authenticate.php,219,0,0
+1761732973250,221,Click on Login button-1,200,OK,Thread Group 1-32,text,true,,9082,612,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,221,0,0
+1761732973482,224,Click on Book Appointment button,200,OK,Thread Group 1-32,text,true,,7460,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,223,0,0
+1761732973717,441,Click on Logout button,200,OK,Thread Group 1-32,text,true,,5871,1150,20,20,https://katalon-demo-cura.herokuapp.com/,217,0,0
+1761732973717,217,Click on Logout button-0,302,Found,Thread Group 1-32,text,true,,835,587,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,217,0,0
+1761732973935,223,Click on Logout button-1,200,OK,Thread Group 1-32,text,true,,5036,563,20,20,https://katalon-demo-cura.herokuapp.com/,223,0,0
+1761732972223,2115,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-33,,true,,31396,3751,22,22,null,0,51,708
+1761732972235,949,Navigate to the login page,200,OK,Thread Group 1-33,text,true,,8127,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,948,0,708
+1761732973201,462,Click on Login button,200,OK,Thread Group 1-33,text,true,,9935,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732973201,228,Click on Login button-0,302,Found,Thread Group 1-33,text,true,,847,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,228,0,0
+1761732973429,234,Click on Login button-1,200,OK,Thread Group 1-33,text,true,,9088,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732973674,232,Click on Book Appointment button,200,OK,Thread Group 1-33,text,true,,7463,773,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,231,0,0
+1761732973916,472,Click on Logout button,200,OK,Thread Group 1-33,text,true,,5871,1150,22,22,https://katalon-demo-cura.herokuapp.com/,239,0,0
+1761732973916,239,Click on Logout button-0,302,Found,Thread Group 1-33,text,true,,835,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,239,0,0
+1761732974156,232,Click on Logout button-1,200,OK,Thread Group 1-33,text,true,,5036,563,22,22,https://katalon-demo-cura.herokuapp.com/,232,0,0
+1761732972325,2059,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-34,,true,,31383,3744,21,21,null,0,46,681
+1761732972336,909,Navigate to the login page,200,OK,Thread Group 1-34,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,909,0,681
+1761732973257,468,Click on Login button,200,OK,Thread Group 1-34,text,true,,9929,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732973257,235,Click on Login button-0,302,Found,Thread Group 1-34,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,235,0,0
+1761732973493,232,Click on Login button-1,200,OK,Thread Group 1-34,text,true,,9082,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,232,0,0
+1761732973736,230,Click on Book Appointment button,200,OK,Thread Group 1-34,text,true,,7456,766,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,230,0,0
+1761732973978,452,Click on Logout button,200,OK,Thread Group 1-34,text,true,,5871,1150,21,21,https://katalon-demo-cura.herokuapp.com/,222,0,0
+1761732973978,222,Click on Logout button-0,302,Found,Thread Group 1-34,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,222,0,0
+1761732974200,230,Click on Logout button-1,200,OK,Thread Group 1-34,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732972428,2130,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-35,,true,,31396,3751,22,22,null,0,49,710
+1761732972446,946,Navigate to the login page,200,OK,Thread Group 1-35,text,true,,8127,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,946,0,710
+1761732973402,475,Click on Login button,200,OK,Thread Group 1-35,text,true,,9935,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,236,0,0
+1761732973402,236,Click on Login button-0,302,Found,Thread Group 1-35,text,true,,847,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,236,0,0
+1761732973638,239,Click on Login button-1,200,OK,Thread Group 1-35,text,true,,9088,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,236,0,0
+1761732973888,238,Click on Book Appointment button,200,OK,Thread Group 1-35,text,true,,7463,773,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,238,0,0
+1761732974136,471,Click on Logout button,200,OK,Thread Group 1-35,text,true,,5871,1150,22,22,https://katalon-demo-cura.herokuapp.com/,233,0,0
+1761732974136,234,Click on Logout button-0,302,Found,Thread Group 1-35,text,true,,835,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,233,0,0
+1761732974370,237,Click on Logout button-1,200,OK,Thread Group 1-35,text,true,,5036,563,22,22,https://katalon-demo-cura.herokuapp.com/,237,0,0
+1761732972536,2077,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-36,,true,,31382,3743,21,21,null,0,46,686
+1761732972551,915,Navigate to the login page,200,OK,Thread Group 1-36,text,true,,8127,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,915,0,686
+1761732973477,463,Click on Login button,200,OK,Thread Group 1-36,text,true,,9929,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732973477,230,Click on Login button-0,302,Found,Thread Group 1-36,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,230,0,0
+1761732973707,233,Click on Login button-1,200,OK,Thread Group 1-36,text,true,,9082,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732973950,232,Click on Book Appointment button,200,OK,Thread Group 1-36,text,true,,7455,765,19,19,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,232,0,0
+1761732974192,467,Click on Logout button,200,OK,Thread Group 1-36,text,true,,5871,1150,21,21,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732974192,229,Click on Logout button-0,302,Found,Thread Group 1-36,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,229,0,0
+1761732974422,237,Click on Logout button-1,200,OK,Thread Group 1-36,text,true,,5036,563,21,21,https://katalon-demo-cura.herokuapp.com/,237,0,0
+1761732972644,2094,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-37,,true,,31388,3747,21,21,null,0,48,698
+1761732972659,941,Navigate to the login page,200,OK,Thread Group 1-37,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,929,0,698
+1761732973610,459,Click on Login button,200,OK,Thread Group 1-37,text,true,,9935,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732973610,228,Click on Login button-0,302,Found,Thread Group 1-37,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,228,0,0
+1761732973838,231,Click on Login button-1,200,OK,Thread Group 1-37,text,true,,9088,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732974081,232,Click on Book Appointment button,200,OK,Thread Group 1-37,text,true,,7459,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,232,0,0
+1761732974323,462,Click on Logout button,200,OK,Thread Group 1-37,text,true,,5867,1150,21,21,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732974323,230,Click on Logout button-0,302,Found,Thread Group 1-37,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,230,0,0
+1761732974553,232,Click on Logout button-1,200,OK,Thread Group 1-37,text,true,,5032,563,21,21,https://katalon-demo-cura.herokuapp.com/,232,0,0
+1761732972754,2056,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-38,,true,,31385,3744,21,21,null,0,50,680
+1761732972769,914,Navigate to the login page,200,OK,Thread Group 1-38,text,true,,8127,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,914,0,680
+1761732973695,460,Click on Login button,200,OK,Thread Group 1-38,text,true,,9935,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,226,0,0
+1761732973695,226,Click on Login button-0,302,Found,Thread Group 1-38,text,true,,847,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,226,0,0
+1761732973921,234,Click on Login button-1,200,OK,Thread Group 1-38,text,true,,9088,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732974166,229,Click on Book Appointment button,200,OK,Thread Group 1-38,text,true,,7456,766,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,229,0,0
+1761732974406,453,Click on Logout button,200,OK,Thread Group 1-38,text,true,,5867,1150,21,21,https://katalon-demo-cura.herokuapp.com/,225,0,0
+1761732974406,225,Click on Logout button-0,302,Found,Thread Group 1-38,text,true,,835,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,225,0,0
+1761732974631,228,Click on Logout button-1,200,OK,Thread Group 1-38,text,true,,5032,563,21,21,https://katalon-demo-cura.herokuapp.com/,228,0,0
+1761732972865,2035,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-39,,true,,31385,3748,21,21,null,0,46,686
+1761732972878,912,Navigate to the login page,200,OK,Thread Group 1-39,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,912,0,686
+1761732973803,448,Click on Login button,200,OK,Thread Group 1-39,text,true,,9935,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,223,0,0
+1761732973803,223,Click on Login button-0,302,Found,Thread Group 1-39,text,true,,847,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,223,0,0
+1761732974026,225,Click on Login button-1,200,OK,Thread Group 1-39,text,true,,9088,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,225,0,0
+1761732974260,227,Click on Book Appointment button,200,OK,Thread Group 1-39,text,true,,7460,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,227,0,0
+1761732974498,448,Click on Logout button,200,OK,Thread Group 1-39,text,true,,5863,1150,21,21,https://katalon-demo-cura.herokuapp.com/,223,0,0
+1761732974498,223,Click on Logout button-0,302,Found,Thread Group 1-39,text,true,,831,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,223,0,0
+1761732974721,225,Click on Logout button-1,200,OK,Thread Group 1-39,text,true,,5032,563,21,21,https://katalon-demo-cura.herokuapp.com/,225,0,0
+1761732972969,2001,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-40,,true,,31384,3747,21,21,null,0,49,671
+1761732972984,895,Navigate to the login page,200,OK,Thread Group 1-40,text,true,,8127,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,895,0,671
+1761732973890,445,Click on Login button,200,OK,Thread Group 1-40,text,true,,9935,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,218,0,0
+1761732973890,218,Click on Login button-0,302,Found,Thread Group 1-40,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,218,0,0
+1761732974108,227,Click on Login button-1,200,OK,Thread Group 1-40,text,true,,9088,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732974348,221,Click on Book Appointment button,200,OK,Thread Group 1-40,text,true,,7459,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,221,0,0
+1761732974579,440,Click on Logout button,200,OK,Thread Group 1-40,text,true,,5863,1150,21,21,https://katalon-demo-cura.herokuapp.com/,219,0,0
+1761732974579,219,Click on Logout button-0,302,Found,Thread Group 1-40,text,true,,831,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,219,0,0
+1761732974798,221,Click on Logout button-1,200,OK,Thread Group 1-40,text,true,,5032,563,21,21,https://katalon-demo-cura.herokuapp.com/,221,0,0
+1761732973078,2167,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-41,,true,,31378,3751,23,23,null,0,48,721
+1761732973093,963,Navigate to the login page,200,OK,Thread Group 1-41,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,963,0,721
+1761732974068,483,Click on Login button,200,OK,Thread Group 1-41,text,true,,9929,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,241,0,0
+1761732974068,241,Click on Login button-0,302,Found,Thread Group 1-41,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,241,0,0
+1761732974309,242,Click on Login button-1,200,OK,Thread Group 1-41,text,true,,9082,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,242,0,0
+1761732974562,238,Click on Book Appointment button,200,OK,Thread Group 1-41,text,true,,7459,773,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,238,0,0
+1761732974810,483,Click on Logout button,200,OK,Thread Group 1-41,text,true,,5863,1150,23,23,https://katalon-demo-cura.herokuapp.com/,240,0,0
+1761732974810,240,Click on Logout button-0,302,Found,Thread Group 1-41,text,true,,831,587,23,23,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,240,0,0
+1761732975057,236,Click on Logout button-1,200,OK,Thread Group 1-41,text,true,,5032,563,23,23,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732973189,2168,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-42,,true,,31374,3747,23,23,null,0,42,725
+1761732973200,964,Navigate to the login page,200,OK,Thread Group 1-42,text,true,,8127,522,19,19,https://katalon-demo-cura.herokuapp.com/profile.php#login,964,0,725
+1761732974175,475,Click on Login button,200,OK,Thread Group 1-42,text,true,,9929,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,237,0,0
+1761732974175,237,Click on Login button-0,302,Found,Thread Group 1-42,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,237,0,0
+1761732974412,238,Click on Login button-1,200,OK,Thread Group 1-42,text,true,,9082,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,236,0,0
+1761732974660,247,Click on Book Appointment button,200,OK,Thread Group 1-42,text,true,,7455,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,247,0,0
+1761732974918,482,Click on Logout button,200,OK,Thread Group 1-42,text,true,,5863,1150,23,23,https://katalon-demo-cura.herokuapp.com/,237,0,0
+1761732974918,237,Click on Logout button-0,302,Found,Thread Group 1-42,text,true,,831,587,23,23,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,237,0,0
+1761732975156,244,Click on Logout button-1,200,OK,Thread Group 1-42,text,true,,5032,563,23,23,https://katalon-demo-cura.herokuapp.com/,244,0,0
+1761732973288,2072,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-43,,true,,31373,3744,22,22,null,0,42,692
+1761732973300,925,Navigate to the login page,200,OK,Thread Group 1-43,text,true,,8127,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,925,0,692
+1761732974235,459,Click on Login button,200,OK,Thread Group 1-43,text,true,,9931,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732974235,227,Click on Login button-0,302,Found,Thread Group 1-43,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,227,0,0
+1761732974463,231,Click on Login button-1,200,OK,Thread Group 1-43,text,true,,9084,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732974705,230,Click on Book Appointment button,200,OK,Thread Group 1-43,text,true,,7452,766,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,230,0,0
+1761732974945,458,Click on Logout button,200,OK,Thread Group 1-43,text,true,,5863,1150,22,22,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732974945,227,Click on Logout button-0,302,Found,Thread Group 1-43,text,true,,831,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,227,0,0
+1761732975172,231,Click on Logout button-1,200,OK,Thread Group 1-43,text,true,,5032,563,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732973388,2068,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-44,,true,,31367,3744,22,22,null,0,48,692
+1761732973399,920,Navigate to the login page,200,OK,Thread Group 1-44,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,919,0,692
+1761732974335,461,Click on Login button,200,OK,Thread Group 1-44,text,true,,9925,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732974335,233,Click on Login button-0,302,Found,Thread Group 1-44,text,true,,847,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,233,0,0
+1761732974569,227,Click on Login button-1,200,OK,Thread Group 1-44,text,true,,9078,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732974806,229,Click on Book Appointment button,200,OK,Thread Group 1-44,text,true,,7452,766,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,229,0,0
+1761732975047,458,Click on Logout button,200,OK,Thread Group 1-44,text,true,,5863,1150,22,22,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732975047,226,Click on Logout button-0,302,Found,Thread Group 1-44,text,true,,831,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,226,0,0
+1761732975274,231,Click on Logout button-1,200,OK,Thread Group 1-44,text,true,,5032,563,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732973487,2021,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-45,,true,,31370,3747,21,21,null,0,47,679
+1761732973499,902,Navigate to the login page,200,OK,Thread Group 1-45,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,902,0,679
+1761732974413,452,Click on Login button,200,OK,Thread Group 1-45,text,true,,9925,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,222,0,0
+1761732974413,222,Click on Login button-0,302,Found,Thread Group 1-45,text,true,,847,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,222,0,0
+1761732974635,230,Click on Login button-1,200,OK,Thread Group 1-45,text,true,,9078,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732974877,224,Click on Book Appointment button,200,OK,Thread Group 1-45,text,true,,7455,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,223,0,0
+1761732975113,443,Click on Logout button,200,OK,Thread Group 1-45,text,true,,5863,1150,21,21,https://katalon-demo-cura.herokuapp.com/,220,0,0
+1761732975113,220,Click on Logout button-0,302,Found,Thread Group 1-45,text,true,,831,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,220,0,0
+1761732975333,223,Click on Logout button-1,200,OK,Thread Group 1-45,text,true,,5032,563,21,21,https://katalon-demo-cura.herokuapp.com/,223,0,0
+1761732973587,2072,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-46,,true,,31381,3744,22,22,null,0,44,694
+1761732973597,926,Navigate to the login page,200,OK,Thread Group 1-46,text,true,,8127,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,926,0,694
+1761732974534,453,Click on Login button,200,OK,Thread Group 1-46,text,true,,9927,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,224,0,0
+1761732974534,224,Click on Login button-0,302,Found,Thread Group 1-46,text,true,,843,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,224,0,0
+1761732974758,229,Click on Login button-1,200,OK,Thread Group 1-46,text,true,,9084,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732974999,230,Click on Book Appointment button,200,OK,Thread Group 1-46,text,true,,7452,766,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,229,0,0
+1761732975240,463,Click on Logout button,200,OK,Thread Group 1-46,text,true,,5875,1150,22,22,https://katalon-demo-cura.herokuapp.com/,234,0,0
+1761732975240,234,Click on Logout button-0,302,Found,Thread Group 1-46,text,true,,831,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,234,0,0
+1761732975474,229,Click on Logout button-1,200,OK,Thread Group 1-46,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732973688,2006,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-47,,true,,31381,3750,21,21,null,0,44,668
+1761732973699,889,Navigate to the login page,200,OK,Thread Group 1-47,text,true,,8127,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,888,0,668
+1761732974598,447,Click on Login button,200,OK,Thread Group 1-47,text,true,,9921,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,219,0,0
+1761732974598,219,Click on Login button-0,302,Found,Thread Group 1-47,text,true,,843,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,219,0,0
+1761732974817,228,Click on Login button-1,200,OK,Thread Group 1-47,text,true,,9078,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,225,0,0
+1761732975058,226,Click on Book Appointment button,200,OK,Thread Group 1-47,text,true,,7458,772,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,224,0,0
+1761732975295,444,Click on Logout button,200,OK,Thread Group 1-47,text,true,,5875,1150,21,21,https://katalon-demo-cura.herokuapp.com/,222,0,0
+1761732975295,222,Click on Logout button-0,302,Found,Thread Group 1-47,text,true,,831,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,222,0,0
+1761732975517,222,Click on Logout button-1,200,OK,Thread Group 1-47,text,true,,5044,563,21,21,https://katalon-demo-cura.herokuapp.com/,222,0,0
+1761732973788,2087,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-48,,true,,31393,3748,22,22,null,0,44,690
+1761732973800,920,Navigate to the login page,200,OK,Thread Group 1-48,text,true,,8123,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,920,0,690
+1761732974731,462,Click on Login button,200,OK,Thread Group 1-48,text,true,,9927,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732974731,228,Click on Login button-0,302,Found,Thread Group 1-48,text,true,,843,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,228,0,0
+1761732974960,233,Click on Login button-1,200,OK,Thread Group 1-48,text,true,,9084,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732975205,234,Click on Book Appointment button,200,OK,Thread Group 1-48,text,true,,7456,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,234,0,0
+1761732975449,471,Click on Logout button,200,OK,Thread Group 1-48,text,true,,5887,1150,22,22,https://katalon-demo-cura.herokuapp.com/,241,0,0
+1761732975449,241,Click on Logout button-0,302,Found,Thread Group 1-48,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,241,0,0
+1761732975690,230,Click on Logout button-1,200,OK,Thread Group 1-48,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732973887,2068,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-49,,true,,31388,3743,22,22,null,0,40,689
+1761732973897,918,Navigate to the login page,200,OK,Thread Group 1-49,text,true,,8123,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,918,0,689
+1761732974825,464,Click on Login button,200,OK,Thread Group 1-49,text,true,,9927,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732974825,234,Click on Login button-0,302,Found,Thread Group 1-49,text,true,,843,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,234,0,0
+1761732975060,229,Click on Login button-1,200,OK,Thread Group 1-49,text,true,,9084,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732975299,232,Click on Book Appointment button,200,OK,Thread Group 1-49,text,true,,7451,765,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,231,0,0
+1761732975541,454,Click on Logout button,200,OK,Thread Group 1-49,text,true,,5887,1150,22,22,https://katalon-demo-cura.herokuapp.com/,224,0,0
+1761732975541,224,Click on Logout button-0,302,Found,Thread Group 1-49,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,224,0,0
+1761732975766,229,Click on Logout button-1,200,OK,Thread Group 1-49,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732973989,1975,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-50,,true,,31395,3750,21,21,null,0,47,658
+1761732974000,877,Navigate to the login page,200,OK,Thread Group 1-50,text,true,,8123,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,877,0,658
+1761732974890,441,Click on Login button,200,OK,Thread Group 1-50,text,true,,9927,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,218,0,0
+1761732974890,218,Click on Login button-0,302,Found,Thread Group 1-50,text,true,,843,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,218,0,0
+1761732975110,221,Click on Login button-1,200,OK,Thread Group 1-50,text,true,,9084,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,221,0,0
+1761732975342,223,Click on Book Appointment button,200,OK,Thread Group 1-50,text,true,,7458,772,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,219,0,0
+1761732975577,434,Click on Logout button,200,OK,Thread Group 1-50,text,true,,5887,1150,21,21,https://katalon-demo-cura.herokuapp.com/,216,0,0
+1761732975577,216,Click on Logout button-0,302,Found,Thread Group 1-50,text,true,,843,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,216,0,0
+1761732975794,217,Click on Logout button-1,200,OK,Thread Group 1-50,text,true,,5044,563,21,21,https://katalon-demo-cura.herokuapp.com/,217,0,0
+1761732974088,2062,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-51,,true,,31405,3748,22,22,null,0,46,698
+1761732974100,925,Navigate to the login page,200,OK,Thread Group 1-51,text,true,,8123,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,925,0,698
+1761732975038,464,Click on Login button,200,OK,Thread Group 1-51,text,true,,9927,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732975038,234,Click on Login button-0,302,Found,Thread Group 1-51,text,true,,843,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,234,0,0
+1761732975273,229,Click on Login button-1,200,OK,Thread Group 1-51,text,true,,9084,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732975513,226,Click on Book Appointment button,200,OK,Thread Group 1-51,text,true,,7468,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,226,0,0
+1761732975749,447,Click on Logout button,200,OK,Thread Group 1-51,text,true,,5887,1150,22,22,https://katalon-demo-cura.herokuapp.com/,222,0,0
+1761732975749,222,Click on Logout button-0,302,Found,Thread Group 1-51,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,222,0,0
+1761732975972,224,Click on Logout button-1,200,OK,Thread Group 1-51,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,224,0,0
+1761732974187,2051,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-52,,true,,31394,3743,21,21,null,0,44,686
+1761732974197,912,Navigate to the login page,200,OK,Thread Group 1-52,text,true,,8123,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,912,0,686
+1761732975123,457,Click on Login button,200,OK,Thread Group 1-52,text,true,,9921,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732975123,228,Click on Login button-0,302,Found,Thread Group 1-52,text,true,,843,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,228,0,0
+1761732975351,229,Click on Login button-1,200,OK,Thread Group 1-52,text,true,,9078,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732975591,230,Click on Book Appointment button,200,OK,Thread Group 1-52,text,true,,7463,765,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,228,0,0
+1761732975831,452,Click on Logout button,200,OK,Thread Group 1-52,text,true,,5887,1150,21,21,https://katalon-demo-cura.herokuapp.com/,223,0,0
+1761732975831,223,Click on Logout button-0,302,Found,Thread Group 1-52,text,true,,843,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,223,0,0
+1761732976054,229,Click on Logout button-1,200,OK,Thread Group 1-52,text,true,,5044,563,21,21,https://katalon-demo-cura.herokuapp.com/,228,0,0
+1761732974287,2181,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-53,,true,,31407,3744,23,23,null,0,44,721
+1761732974299,972,Navigate to the login page,200,OK,Thread Group 1-53,text,true,,8123,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,972,0,721
+1761732975282,483,Click on Login button,200,OK,Thread Group 1-53,text,true,,9933,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,240,0,0
+1761732975282,240,Click on Login button-0,302,Found,Thread Group 1-53,text,true,,843,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,240,0,0
+1761732975522,243,Click on Login button-1,200,OK,Thread Group 1-53,text,true,,9090,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,242,0,0
+1761732975776,240,Click on Book Appointment button,200,OK,Thread Group 1-53,text,true,,7464,766,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,240,0,0
+1761732976027,486,Click on Logout button,200,OK,Thread Group 1-53,text,true,,5887,1150,23,23,https://katalon-demo-cura.herokuapp.com/,238,0,0
+1761732976027,238,Click on Logout button-0,302,Found,Thread Group 1-53,text,true,,843,587,23,23,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,238,0,0
+1761732976266,247,Click on Logout button-1,200,OK,Thread Group 1-53,text,true,,5044,563,23,23,https://katalon-demo-cura.herokuapp.com/,247,0,0
+1761732974387,2102,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-54,,true,,31417,3748,22,22,null,0,44,707
+1761732974398,940,Navigate to the login page,200,OK,Thread Group 1-54,text,true,,8123,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,940,0,707
+1761732975351,464,Click on Login button,200,OK,Thread Group 1-54,text,true,,9939,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732975351,230,Click on Login button-0,302,Found,Thread Group 1-54,text,true,,843,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,230,0,0
+1761732975581,234,Click on Login button-1,200,OK,Thread Group 1-54,text,true,,9096,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732975825,238,Click on Book Appointment button,200,OK,Thread Group 1-54,text,true,,7468,770,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,238,0,0
+1761732976074,460,Click on Logout button,200,OK,Thread Group 1-54,text,true,,5887,1150,22,22,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732976074,227,Click on Logout button-0,302,Found,Thread Group 1-54,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,227,0,0
+1761732976302,232,Click on Logout button-1,200,OK,Thread Group 1-54,text,true,,5044,563,22,22,https://katalon-demo-cura.herokuapp.com/,232,0,0
+1761732974486,2153,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-55,,true,,31419,3748,22,22,null,0,49,719
+1761732974499,961,Navigate to the login page,200,OK,Thread Group 1-55,text,true,,8123,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,961,0,719
+1761732975473,477,Click on Login button,200,OK,Thread Group 1-55,text,true,,9945,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,236,0,0
+1761732975473,236,Click on Login button-0,302,Found,Thread Group 1-55,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,236,0,0
+1761732975710,240,Click on Login button-1,200,OK,Thread Group 1-55,text,true,,9090,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,239,0,0
+1761732975961,240,Click on Book Appointment button,200,OK,Thread Group 1-55,text,true,,7468,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,240,0,0
+1761732976213,475,Click on Logout button,200,OK,Thread Group 1-55,text,true,,5883,1150,22,22,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732976213,236,Click on Logout button-0,302,Found,Thread Group 1-55,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,236,0,0
+1761732976449,239,Click on Logout button-1,200,OK,Thread Group 1-55,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,239,0,0
+1761732974586,2094,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-56,,true,,31418,3747,22,22,null,0,43,702
+1761732974596,938,Navigate to the login page,200,OK,Thread Group 1-56,text,true,,8123,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,938,0,702
+1761732975546,462,Click on Login button,200,OK,Thread Group 1-56,text,true,,9945,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732975546,230,Click on Login button-0,302,Found,Thread Group 1-56,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,230,0,0
+1761732975776,232,Click on Login button-1,200,OK,Thread Group 1-56,text,true,,9090,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732976018,232,Click on Book Appointment button,200,OK,Thread Group 1-56,text,true,,7467,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,232,0,0
+1761732976262,462,Click on Logout button,200,OK,Thread Group 1-56,text,true,,5883,1150,22,22,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732976262,229,Click on Logout button-0,302,Found,Thread Group 1-56,text,true,,843,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,229,0,0
+1761732976491,233,Click on Logout button-1,200,OK,Thread Group 1-56,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,233,0,0
+1761732974686,2026,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-57,,true,,31425,3748,21,21,null,0,42,671
+1761732974697,901,Navigate to the login page,200,OK,Thread Group 1-57,text,true,,8123,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,901,0,671
+1761732975610,448,Click on Login button,200,OK,Thread Group 1-57,text,true,,9951,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,222,0,0
+1761732975610,222,Click on Login button-0,302,Found,Thread Group 1-57,text,true,,855,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,222,0,0
+1761732975832,226,Click on Login button-1,200,OK,Thread Group 1-57,text,true,,9096,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,226,0,0
+1761732976068,231,Click on Book Appointment button,200,OK,Thread Group 1-57,text,true,,7468,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,231,0,0
+1761732976309,446,Click on Logout button,200,OK,Thread Group 1-57,text,true,,5883,1150,21,21,https://katalon-demo-cura.herokuapp.com/,222,0,0
+1761732976309,222,Click on Logout button-0,302,Found,Thread Group 1-57,text,true,,843,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,222,0,0
+1761732976531,224,Click on Logout button-1,200,OK,Thread Group 1-57,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,224,0,0
+1761732974786,2007,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-58,,true,,31432,3743,21,21,null,0,44,677
+1761732974796,899,Navigate to the login page,200,OK,Thread Group 1-58,text,true,,8135,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,899,0,677
+1761732975709,446,Click on Login button,200,OK,Thread Group 1-58,text,true,,9951,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,223,0,0
+1761732975709,223,Click on Login button-0,302,Found,Thread Group 1-58,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,223,0,0
+1761732975932,223,Click on Login button-1,200,OK,Thread Group 1-58,text,true,,9096,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,223,0,0
+1761732976165,224,Click on Book Appointment button,200,OK,Thread Group 1-58,text,true,,7463,765,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,224,0,0
+1761732976399,438,Click on Logout button,200,OK,Thread Group 1-58,text,true,,5883,1150,21,21,https://katalon-demo-cura.herokuapp.com/,218,0,0
+1761732976399,218,Click on Logout button-0,302,Found,Thread Group 1-58,text,true,,843,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,218,0,0
+1761732976617,220,Click on Logout button-1,200,OK,Thread Group 1-58,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,220,0,0
+1761732974988,2061,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-60,,true,,31433,3748,23,23,null,0,48,690
+1761732975000,917,Navigate to the login page,200,OK,Thread Group 1-60,text,true,,8135,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,916,0,690
+1761732975929,454,Click on Login button,200,OK,Thread Group 1-60,text,true,,9951,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,226,0,0
+1761732975929,226,Click on Login button-0,302,Found,Thread Group 1-60,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,226,0,0
+1761732976156,227,Click on Login button-1,200,OK,Thread Group 1-60,text,true,,9096,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732976394,234,Click on Book Appointment button,200,OK,Thread Group 1-60,text,true,,7468,770,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,234,0,0
+1761732976640,456,Click on Logout button,200,OK,Thread Group 1-60,text,true,,5879,1150,23,23,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732976640,229,Click on Logout button-0,302,Found,Thread Group 1-60,text,true,,839,587,23,23,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,229,0,0
+1761732976869,227,Click on Logout button-1,200,OK,Thread Group 1-60,text,true,,5040,563,23,23,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732974886,2166,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-59,,true,,31428,3743,23,23,null,0,45,723
+1761732974897,966,Navigate to the login page,200,OK,Thread Group 1-59,text,true,,8135,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,966,0,723
+1761732975876,481,Click on Login button,200,OK,Thread Group 1-59,text,true,,9951,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,237,0,0
+1761732975876,237,Click on Login button-0,302,Found,Thread Group 1-59,text,true,,855,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,237,0,0
+1761732976114,243,Click on Login button-1,200,OK,Thread Group 1-59,text,true,,9096,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,243,0,0
+1761732976368,244,Click on Book Appointment button,200,OK,Thread Group 1-59,text,true,,7463,765,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,243,0,0
+1761732976623,475,Click on Logout button,200,OK,Thread Group 1-59,text,true,,5879,1150,23,23,https://katalon-demo-cura.herokuapp.com/,237,0,0
+1761732976623,237,Click on Logout button-0,302,Found,Thread Group 1-59,text,true,,839,587,23,23,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,237,0,0
+1761732976860,238,Click on Logout button-1,200,OK,Thread Group 1-59,text,true,,5040,563,23,23,https://katalon-demo-cura.herokuapp.com/,237,0,0
+1761732975087,2011,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-61,,true,,31423,3748,21,21,null,0,52,667
+1761732975098,890,Navigate to the login page,200,OK,Thread Group 1-61,text,true,,8135,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,890,0,667
+1761732975999,450,Click on Login button,200,OK,Thread Group 1-61,text,true,,9945,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732975999,228,Click on Login button-0,302,Found,Thread Group 1-61,text,true,,855,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,228,0,0
+1761732976227,222,Click on Login button-1,200,OK,Thread Group 1-61,text,true,,9090,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,222,0,0
+1761732976460,227,Click on Book Appointment button,200,OK,Thread Group 1-61,text,true,,7464,770,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,227,0,0
+1761732976705,444,Click on Logout button,200,OK,Thread Group 1-61,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,219,0,0
+1761732976705,219,Click on Logout button-0,302,Found,Thread Group 1-61,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,219,0,0
+1761732976924,225,Click on Logout button-1,200,OK,Thread Group 1-61,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,225,0,0
+1761732975188,1963,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-62,,true,,31428,3747,21,21,null,0,44,651
+1761732975201,868,Navigate to the login page,200,OK,Thread Group 1-62,text,true,,8135,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,867,0,651
+1761732976079,437,Click on Login button,200,OK,Thread Group 1-62,text,true,,9951,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,215,0,0
+1761732976079,215,Click on Login button-0,302,Found,Thread Group 1-62,text,true,,855,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,215,0,0
+1761732976295,221,Click on Login button-1,200,OK,Thread Group 1-62,text,true,,9096,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,221,0,0
+1761732976527,225,Click on Book Appointment button,200,OK,Thread Group 1-62,text,true,,7463,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,225,0,0
+1761732976762,433,Click on Logout button,200,OK,Thread Group 1-62,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,214,0,0
+1761732976762,214,Click on Logout button-0,302,Found,Thread Group 1-62,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,214,0,0
+1761732976976,219,Click on Logout button-1,200,OK,Thread Group 1-62,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,219,0,0
+1761732975290,2089,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-63,,true,,31424,3747,22,22,null,0,46,691
+1761732975302,926,Navigate to the login page,200,OK,Thread Group 1-63,text,true,,8135,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,926,0,691
+1761732976239,462,Click on Login button,200,OK,Thread Group 1-63,text,true,,9947,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732976239,230,Click on Login button-0,302,Found,Thread Group 1-63,text,true,,855,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,230,0,0
+1761732976469,232,Click on Login button-1,200,OK,Thread Group 1-63,text,true,,9092,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732976713,232,Click on Book Appointment button,200,OK,Thread Group 1-63,text,true,,7463,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,232,0,0
+1761732976955,469,Click on Logout button,200,OK,Thread Group 1-63,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,233,0,0
+1761732976955,233,Click on Logout button-0,302,Found,Thread Group 1-63,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,233,0,0
+1761732977188,236,Click on Logout button-1,200,OK,Thread Group 1-63,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732975389,2174,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-64,,true,,31427,3750,23,23,null,0,45,729
+1761732975400,970,Navigate to the login page,200,OK,Thread Group 1-64,text,true,,8135,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,969,0,729
+1761732976380,483,Click on Login button,200,OK,Thread Group 1-64,text,true,,9947,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,241,0,0
+1761732976380,241,Click on Login button-0,302,Found,Thread Group 1-64,text,true,,855,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,241,0,0
+1761732976621,242,Click on Login button-1,200,OK,Thread Group 1-64,text,true,,9092,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,242,0,0
+1761732976875,243,Click on Book Appointment button,200,OK,Thread Group 1-64,text,true,,7466,772,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,243,0,0
+1761732977130,478,Click on Logout button,200,OK,Thread Group 1-64,text,true,,5879,1150,23,23,https://katalon-demo-cura.herokuapp.com/,238,0,0
+1761732977130,238,Click on Logout button-0,302,Found,Thread Group 1-64,text,true,,839,587,23,23,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,238,0,0
+1761732977368,240,Click on Logout button-1,200,OK,Thread Group 1-64,text,true,,5040,563,23,23,https://katalon-demo-cura.herokuapp.com/,240,0,0
+1761732975488,2110,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-65,,true,,31420,3747,22,22,null,0,45,702
+1761732975501,936,Navigate to the login page,200,OK,Thread Group 1-65,text,true,,8135,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,934,0,702
+1761732976448,476,Click on Login button,200,OK,Thread Group 1-65,text,true,,9943,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,239,0,0
+1761732976448,239,Click on Login button-0,302,Found,Thread Group 1-65,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,239,0,0
+1761732976688,236,Click on Login button-1,200,OK,Thread Group 1-65,text,true,,9092,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732976934,235,Click on Book Appointment button,200,OK,Thread Group 1-65,text,true,,7463,769,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,235,0,0
+1761732977180,463,Click on Logout button,200,OK,Thread Group 1-65,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732977180,230,Click on Logout button-0,302,Found,Thread Group 1-65,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,230,0,0
+1761732977410,233,Click on Logout button-1,200,OK,Thread Group 1-65,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,233,0,0
+1761732975589,2136,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-66,,true,,31417,3750,22,22,null,0,42,712
+1761732975600,953,Navigate to the login page,200,OK,Thread Group 1-66,text,true,,8135,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,953,0,712
+1761732976563,474,Click on Login button,200,OK,Thread Group 1-66,text,true,,9937,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,236,0,0
+1761732976563,236,Click on Login button-0,302,Found,Thread Group 1-66,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,236,0,0
+1761732976799,238,Click on Login button-1,200,OK,Thread Group 1-66,text,true,,9086,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,238,0,0
+1761732977048,239,Click on Book Appointment button,200,OK,Thread Group 1-66,text,true,,7466,772,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,239,0,0
+1761732977297,470,Click on Logout button,200,OK,Thread Group 1-66,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,235,0,0
+1761732977297,235,Click on Logout button-0,302,Found,Thread Group 1-66,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,235,0,0
+1761732977532,235,Click on Logout button-1,200,OK,Thread Group 1-66,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,235,0,0
+1761732975691,2105,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-67,,true,,31411,3744,22,22,null,0,45,705
+1761732975704,938,Navigate to the login page,200,OK,Thread Group 1-67,text,true,,8135,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,938,0,705
+1761732976653,471,Click on Login button,200,OK,Thread Group 1-67,text,true,,9937,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732976653,234,Click on Login button-0,302,Found,Thread Group 1-67,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,234,0,0
+1761732976887,237,Click on Login button-1,200,OK,Thread Group 1-67,text,true,,9086,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,237,0,0
+1761732977135,233,Click on Book Appointment button,200,OK,Thread Group 1-67,text,true,,7460,766,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,233,0,0
+1761732977378,463,Click on Logout button,200,OK,Thread Group 1-67,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732977378,230,Click on Logout button-0,302,Found,Thread Group 1-67,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,230,0,0
+1761732977608,233,Click on Logout button-1,200,OK,Thread Group 1-67,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,233,0,0
+1761732975791,2130,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-68,,true,,31410,3747,22,22,null,0,43,715
+1761732975802,951,Navigate to the login page,200,OK,Thread Group 1-68,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,950,0,715
+1761732976763,470,Click on Login button,200,OK,Thread Group 1-68,text,true,,9937,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732976763,233,Click on Login button-0,302,Found,Thread Group 1-68,text,true,,851,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,233,0,0
+1761732976996,237,Click on Login button-1,200,OK,Thread Group 1-68,text,true,,9086,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,237,0,0
+1761732977243,240,Click on Book Appointment button,200,OK,Thread Group 1-68,text,true,,7463,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,240,0,0
+1761732977494,469,Click on Logout button,200,OK,Thread Group 1-68,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,232,0,0
+1761732977494,232,Click on Logout button-0,302,Found,Thread Group 1-68,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,232,0,0
+1761732977727,236,Click on Logout button-1,200,OK,Thread Group 1-68,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732975890,2033,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-69,,true,,31410,3747,21,21,null,0,44,679
+1761732975901,902,Navigate to the login page,200,OK,Thread Group 1-69,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,902,0,679
+1761732976814,454,Click on Login button,200,OK,Thread Group 1-69,text,true,,9937,1306,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,225,0,0
+1761732976814,225,Click on Login button-0,302,Found,Thread Group 1-69,text,true,,851,694,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php,225,0,0
+1761732977039,229,Click on Login button-1,200,OK,Thread Group 1-69,text,true,,9086,612,20,20,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732977278,230,Click on Book Appointment button,200,OK,Thread Group 1-69,text,true,,7463,769,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,230,0,0
+1761732977519,447,Click on Logout button,200,OK,Thread Group 1-69,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,221,0,0
+1761732977519,221,Click on Logout button-0,302,Found,Thread Group 1-69,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,221,0,0
+1761732977741,225,Click on Logout button-1,200,OK,Thread Group 1-69,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,225,0,0
+1761732975988,2039,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-70,,true,,31411,3748,21,21,null,0,45,689
+1761732975999,913,Navigate to the login page,200,OK,Thread Group 1-70,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,912,0,689
+1761732976924,452,Click on Login button,200,OK,Thread Group 1-70,text,true,,9937,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,225,0,0
+1761732976924,225,Click on Login button-0,302,Found,Thread Group 1-70,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,225,0,0
+1761732977150,226,Click on Login button-1,200,OK,Thread Group 1-70,text,true,,9086,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,226,0,0
+1761732977386,225,Click on Book Appointment button,200,OK,Thread Group 1-70,text,true,,7464,770,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,225,0,0
+1761732977623,449,Click on Logout button,200,OK,Thread Group 1-70,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,222,0,0
+1761732977623,222,Click on Logout button-0,302,Found,Thread Group 1-70,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,222,0,0
+1761732977845,227,Click on Logout button-1,200,OK,Thread Group 1-70,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732976088,2113,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-71,,true,,31412,3743,22,22,null,0,44,717
+1761732976099,952,Navigate to the login page,200,OK,Thread Group 1-71,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,952,0,717
+1761732977063,468,Click on Login button,200,OK,Thread Group 1-71,text,true,,9943,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,232,0,0
+1761732977063,232,Click on Login button-0,302,Found,Thread Group 1-71,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,232,0,0
+1761732977295,236,Click on Login button-1,200,OK,Thread Group 1-71,text,true,,9092,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732977541,232,Click on Book Appointment button,200,OK,Thread Group 1-71,text,true,,7459,765,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,232,0,0
+1761732977784,461,Click on Logout button,200,OK,Thread Group 1-71,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732977784,230,Click on Logout button-0,302,Found,Thread Group 1-71,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,230,0,0
+1761732978014,231,Click on Logout button-1,200,OK,Thread Group 1-71,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732976191,2137,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-72,,true,,31413,3750,22,22,null,0,46,711
+1761732976204,954,Navigate to the login page,200,OK,Thread Group 1-72,text,true,,8131,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,954,0,711
+1761732977169,468,Click on Login button,200,OK,Thread Group 1-72,text,true,,9937,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732977169,233,Click on Login button-0,302,Found,Thread Group 1-72,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,233,0,0
+1761732977402,235,Click on Login button-1,200,OK,Thread Group 1-72,text,true,,9086,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732977647,235,Click on Book Appointment button,200,OK,Thread Group 1-72,text,true,,7466,772,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,235,0,0
+1761732977893,480,Click on Logout button,200,OK,Thread Group 1-72,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,243,0,0
+1761732977893,243,Click on Logout button-0,302,Found,Thread Group 1-72,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,243,0,0
+1761732978136,237,Click on Logout button-1,200,OK,Thread Group 1-72,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,237,0,0
+1761732976291,2099,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-73,,true,,31419,3750,22,22,null,0,43,700
+1761732976302,934,Navigate to the login page,200,OK,Thread Group 1-73,text,true,,8131,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,933,0,700
+1761732977248,469,Click on Login button,200,OK,Thread Group 1-73,text,true,,9943,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,232,0,0
+1761732977248,232,Click on Login button-0,302,Found,Thread Group 1-73,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,232,0,0
+1761732977480,237,Click on Login button-1,200,OK,Thread Group 1-73,text,true,,9092,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,237,0,0
+1761732977727,235,Click on Book Appointment button,200,OK,Thread Group 1-73,text,true,,7466,772,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,234,0,0
+1761732977971,461,Click on Logout button,200,OK,Thread Group 1-73,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732977971,230,Click on Logout button-0,302,Found,Thread Group 1-73,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,230,0,0
+1761732978201,231,Click on Logout button-1,200,OK,Thread Group 1-73,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732976389,2070,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-74,,true,,31406,3743,22,22,null,0,44,711
+1761732976400,937,Navigate to the login page,200,OK,Thread Group 1-74,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,937,0,711
+1761732977348,453,Click on Login button,200,OK,Thread Group 1-74,text,true,,9937,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,223,0,0
+1761732977348,223,Click on Login button-0,302,Found,Thread Group 1-74,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,223,0,0
+1761732977571,230,Click on Login button-1,200,OK,Thread Group 1-74,text,true,,9086,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732977813,231,Click on Book Appointment button,200,OK,Thread Group 1-74,text,true,,7459,765,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,231,0,0
+1761732978054,449,Click on Logout button,200,OK,Thread Group 1-74,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,223,0,0
+1761732978054,223,Click on Logout button-0,302,Found,Thread Group 1-74,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,223,0,0
+1761732978277,226,Click on Logout button-1,200,OK,Thread Group 1-74,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732976489,2090,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-75,,true,,31417,3748,22,22,null,0,43,695
+1761732976500,926,Navigate to the login page,200,OK,Thread Group 1-75,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,926,0,695
+1761732977437,461,Click on Login button,200,OK,Thread Group 1-75,text,true,,9943,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732977437,227,Click on Login button-0,302,Found,Thread Group 1-75,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,227,0,0
+1761732977664,234,Click on Login button-1,200,OK,Thread Group 1-75,text,true,,9092,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732977909,242,Click on Book Appointment button,200,OK,Thread Group 1-75,text,true,,7464,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,242,0,0
+1761732978161,461,Click on Logout button,200,OK,Thread Group 1-75,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732978161,229,Click on Logout button-0,302,Found,Thread Group 1-75,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,229,0,0
+1761732978390,232,Click on Logout button-1,200,OK,Thread Group 1-75,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,232,0,0
+1761732976590,2005,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-76,,true,,31413,3744,21,21,null,0,44,664
+1761732976601,888,Navigate to the login page,200,OK,Thread Group 1-76,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,888,0,664
+1761732977501,447,Click on Login button,200,OK,Thread Group 1-76,text,true,,9943,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,221,0,0
+1761732977501,221,Click on Login button-0,302,Found,Thread Group 1-76,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,221,0,0
+1761732977722,226,Click on Login button-1,200,OK,Thread Group 1-76,text,true,,9092,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,226,0,0
+1761732977959,226,Click on Book Appointment button,200,OK,Thread Group 1-76,text,true,,7460,766,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,223,0,0
+1761732978195,444,Click on Logout button,200,OK,Thread Group 1-76,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,221,0,0
+1761732978195,221,Click on Logout button-0,302,Found,Thread Group 1-76,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,221,0,0
+1761732978417,222,Click on Logout button-1,200,OK,Thread Group 1-76,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,222,0,0
+1761732976692,2104,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-77,,true,,31416,3747,22,22,null,0,45,703
+1761732976704,936,Navigate to the login page,200,OK,Thread Group 1-77,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,936,0,703
+1761732977650,465,Click on Login button,200,OK,Thread Group 1-77,text,true,,9943,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732977650,228,Click on Login button-0,302,Found,Thread Group 1-77,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,228,0,0
+1761732977878,237,Click on Login button-1,200,OK,Thread Group 1-77,text,true,,9092,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,237,0,0
+1761732978126,244,Click on Book Appointment button,200,OK,Thread Group 1-77,text,true,,7463,769,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,244,0,0
+1761732978382,459,Click on Logout button,200,OK,Thread Group 1-77,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732978382,230,Click on Logout button-0,302,Found,Thread Group 1-77,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,230,0,0
+1761732978612,229,Click on Logout button-1,200,OK,Thread Group 1-77,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,228,0,0
+1761732976790,2118,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-78,,true,,31410,3747,22,22,null,0,42,709
+1761732976800,946,Navigate to the login page,200,OK,Thread Group 1-78,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,946,0,709
+1761732977756,464,Click on Login button,200,OK,Thread Group 1-78,text,true,,9937,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732977756,230,Click on Login button-0,302,Found,Thread Group 1-78,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,230,0,0
+1761732977987,233,Click on Login button-1,200,OK,Thread Group 1-78,text,true,,9086,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732978230,240,Click on Book Appointment button,200,OK,Thread Group 1-78,text,true,,7463,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,237,0,0
+1761732978481,468,Click on Logout button,200,OK,Thread Group 1-78,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732978481,229,Click on Logout button-0,302,Found,Thread Group 1-78,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,229,0,0
+1761732978711,238,Click on Logout button-1,200,OK,Thread Group 1-78,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,238,0,0
+1761732976892,2080,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-79,,true,,31407,3744,22,22,null,0,45,688
+1761732976904,922,Navigate to the login page,200,OK,Thread Group 1-79,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,921,0,688
+1761732977838,462,Click on Login button,200,OK,Thread Group 1-79,text,true,,9937,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732977838,231,Click on Login button-0,302,Found,Thread Group 1-79,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,231,0,0
+1761732978069,231,Click on Login button-1,200,OK,Thread Group 1-79,text,true,,9086,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732978311,232,Click on Book Appointment button,200,OK,Thread Group 1-79,text,true,,7460,766,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,232,0,0
+1761732978553,464,Click on Logout button,200,OK,Thread Group 1-79,text,true,,5879,1150,22,22,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732978553,231,Click on Logout button-0,302,Found,Thread Group 1-79,text,true,,839,587,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,231,0,0
+1761732978784,233,Click on Logout button-1,200,OK,Thread Group 1-79,text,true,,5040,563,22,22,https://katalon-demo-cura.herokuapp.com/,233,0,0
+1761732976990,2144,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-80,,true,,31416,3747,21,21,null,0,44,709
+1761732977002,951,Navigate to the login page,200,OK,Thread Group 1-80,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,950,0,709
+1761732977964,476,Click on Login button,200,OK,Thread Group 1-80,text,true,,9943,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732977964,235,Click on Login button-0,302,Found,Thread Group 1-80,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,235,0,0
+1761732978199,241,Click on Login button-1,200,OK,Thread Group 1-80,text,true,,9092,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,238,0,0
+1761732978450,244,Click on Book Appointment button,200,OK,Thread Group 1-80,text,true,,7463,769,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,244,0,0
+1761732978704,473,Click on Logout button,200,OK,Thread Group 1-80,text,true,,5879,1150,21,21,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732978704,236,Click on Logout button-0,302,Found,Thread Group 1-80,text,true,,839,587,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,236,0,0
+1761732978941,236,Click on Logout button-1,200,OK,Thread Group 1-80,text,true,,5040,563,21,21,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732977090,2119,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-81,,true,,31420,3751,20,20,null,0,47,698
+1761732977103,935,Navigate to the login page,200,OK,Thread Group 1-81,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,935,0,698
+1761732978050,467,Click on Login button,200,OK,Thread Group 1-81,text,true,,9943,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732978050,230,Click on Login button-0,302,Found,Thread Group 1-81,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,230,0,0
+1761732978280,237,Click on Login button-1,200,OK,Thread Group 1-81,text,true,,9092,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,237,0,0
+1761732978528,250,Click on Book Appointment button,200,OK,Thread Group 1-81,text,true,,7467,773,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,234,0,0
+1761732978789,467,Click on Logout button,200,OK,Thread Group 1-81,text,true,,5879,1150,20,20,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732978789,231,Click on Logout button-0,302,Found,Thread Group 1-81,text,true,,839,587,20,20,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,231,0,0
+1761732979020,236,Click on Logout button-1,200,OK,Thread Group 1-81,text,true,,5040,563,20,20,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732977189,2084,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-82,,true,,31417,3748,19,19,null,0,44,687
+1761732977200,920,Navigate to the login page,200,OK,Thread Group 1-82,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,920,0,687
+1761732978131,471,Click on Login button,200,OK,Thread Group 1-82,text,true,,9943,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,239,0,0
+1761732978131,239,Click on Login button-0,302,Found,Thread Group 1-82,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,239,0,0
+1761732978371,231,Click on Login button-1,200,OK,Thread Group 1-82,text,true,,9092,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732978612,237,Click on Book Appointment button,200,OK,Thread Group 1-82,text,true,,7464,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,236,0,0
+1761732978860,456,Click on Logout button,200,OK,Thread Group 1-82,text,true,,5879,1150,19,19,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732978860,227,Click on Logout button-0,302,Found,Thread Group 1-82,text,true,,839,587,19,19,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,227,0,0
+1761732979087,229,Click on Logout button-1,200,OK,Thread Group 1-82,text,true,,5040,563,19,19,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732977287,2088,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-83,,true,,31417,3748,18,18,null,0,44,693
+1761732977299,923,Navigate to the login page,200,OK,Thread Group 1-83,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,923,0,693
+1761732978232,462,Click on Login button,200,OK,Thread Group 1-83,text,true,,9943,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732978232,231,Click on Login button-0,302,Found,Thread Group 1-83,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,231,0,0
+1761732978463,231,Click on Login button-1,200,OK,Thread Group 1-83,text,true,,9092,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732978705,235,Click on Book Appointment button,200,OK,Thread Group 1-83,text,true,,7464,770,22,22,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,235,0,0
+1761732978951,468,Click on Logout button,200,OK,Thread Group 1-83,text,true,,5879,1150,18,18,https://katalon-demo-cura.herokuapp.com/,237,0,0
+1761732978951,237,Click on Logout button-0,302,Found,Thread Group 1-83,text,true,,839,587,18,18,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,237,0,0
+1761732979188,231,Click on Logout button-1,200,OK,Thread Group 1-83,text,true,,5040,563,18,18,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732977486,1998,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-85,,true,,31406,3743,17,17,null,0,48,670
+1761732977496,893,Navigate to the login page,200,OK,Thread Group 1-85,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,891,0,670
+1761732978401,447,Click on Login button,200,OK,Thread Group 1-85,text,true,,9937,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,221,0,0
+1761732978401,221,Click on Login button-0,302,Found,Thread Group 1-85,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,221,0,0
+1761732978622,226,Click on Login button-1,200,OK,Thread Group 1-85,text,true,,9086,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,226,0,0
+1761732978859,222,Click on Book Appointment button,200,OK,Thread Group 1-85,text,true,,7459,765,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,222,0,0
+1761732979095,436,Click on Logout button,200,OK,Thread Group 1-85,text,true,,5879,1150,17,17,https://katalon-demo-cura.herokuapp.com/,215,0,0
+1761732979095,215,Click on Logout button-0,302,Found,Thread Group 1-85,text,true,,839,587,17,17,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,215,0,0
+1761732979310,221,Click on Logout button-1,200,OK,Thread Group 1-85,text,true,,5040,563,17,17,https://katalon-demo-cura.herokuapp.com/,221,0,0
+1761732977385,2099,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-84,,true,,31417,3748,17,17,null,0,48,699
+1761732977396,934,Navigate to the login page,200,OK,Thread Group 1-84,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,934,0,699
+1761732978343,464,Click on Login button,200,OK,Thread Group 1-84,text,true,,9943,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732978343,229,Click on Login button-0,302,Found,Thread Group 1-84,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,229,0,0
+1761732978572,235,Click on Login button-1,200,OK,Thread Group 1-84,text,true,,9092,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732978817,234,Click on Book Appointment button,200,OK,Thread Group 1-84,text,true,,7464,770,21,21,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,233,0,0
+1761732979064,467,Click on Logout button,200,OK,Thread Group 1-84,text,true,,5879,1150,17,17,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732979064,231,Click on Logout button-0,302,Found,Thread Group 1-84,text,true,,839,587,17,17,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,231,0,0
+1761732979295,236,Click on Logout button-1,200,OK,Thread Group 1-84,text,true,,5040,563,17,17,https://katalon-demo-cura.herokuapp.com/,236,0,0
+1761732977585,2064,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-86,,true,,31413,3748,15,15,null,0,56,695
+1761732977595,922,Navigate to the login page,200,OK,Thread Group 1-86,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,922,0,695
+1761732978529,455,Click on Login button,200,OK,Thread Group 1-86,text,true,,9943,1306,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,224,0,0
+1761732978529,224,Click on Login button-0,302,Found,Thread Group 1-86,text,true,,851,694,22,22,https://katalon-demo-cura.herokuapp.com/authenticate.php,224,0,0
+1761732978753,231,Click on Login button-1,200,OK,Thread Group 1-86,text,true,,9092,612,22,22,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732979003,233,Click on Book Appointment button,200,OK,Thread Group 1-86,text,true,,7464,770,20,20,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,233,0,0
+1761732979250,454,Click on Logout button,200,OK,Thread Group 1-86,text,true,,5875,1150,15,15,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732979250,226,Click on Logout button-0,302,Found,Thread Group 1-86,text,true,,839,587,15,15,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,226,0,0
+1761732979477,227,Click on Logout button-1,200,OK,Thread Group 1-86,text,true,,5036,563,15,15,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732977682,2113,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-87,,true,,31402,3743,14,14,null,0,52,702
+1761732977694,939,Navigate to the login page,200,OK,Thread Group 1-87,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,939,0,702
+1761732978644,468,Click on Login button,200,OK,Thread Group 1-87,text,true,,9937,1306,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732978644,233,Click on Login button-0,302,Found,Thread Group 1-87,text,true,,851,694,21,21,https://katalon-demo-cura.herokuapp.com/authenticate.php,233,0,0
+1761732978878,234,Click on Login button-1,200,OK,Thread Group 1-87,text,true,,9086,612,21,21,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732979127,235,Click on Book Appointment button,200,OK,Thread Group 1-87,text,true,,7459,765,18,18,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,235,0,0
+1761732979375,471,Click on Logout button,200,OK,Thread Group 1-87,text,true,,5875,1150,14,14,https://katalon-demo-cura.herokuapp.com/,233,0,0
+1761732979375,233,Click on Logout button-0,302,Found,Thread Group 1-87,text,true,,839,587,14,14,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,233,0,0
+1761732979608,238,Click on Logout button-1,200,OK,Thread Group 1-87,text,true,,5036,563,14,14,https://katalon-demo-cura.herokuapp.com/,238,0,0
+1761732977780,2193,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-88,,true,,31405,3750,13,13,null,0,56,727
+1761732977793,985,Navigate to the login page,200,OK,Thread Group 1-88,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,985,0,727
+1761732978789,480,Click on Login button,200,OK,Thread Group 1-88,text,true,,9937,1306,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,239,0,0
+1761732978789,239,Click on Login button-0,302,Found,Thread Group 1-88,text,true,,851,694,19,19,https://katalon-demo-cura.herokuapp.com/authenticate.php,239,0,0
+1761732979028,241,Click on Login button-1,200,OK,Thread Group 1-88,text,true,,9086,612,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,241,0,0
+1761732979282,246,Click on Book Appointment button,200,OK,Thread Group 1-88,text,true,,7466,772,17,17,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,246,0,0
+1761732979547,482,Click on Logout button,200,OK,Thread Group 1-88,text,true,,5871,1150,13,13,https://katalon-demo-cura.herokuapp.com/,239,0,0
+1761732979547,239,Click on Logout button-0,302,Found,Thread Group 1-88,text,true,,835,587,13,13,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,239,0,0
+1761732979786,243,Click on Logout button-1,200,OK,Thread Group 1-88,text,true,,5036,563,13,13,https://katalon-demo-cura.herokuapp.com/,243,0,0
+1761732977979,2000,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-90,,true,,31404,3743,12,12,null,0,72,665
+1761732977880,2110,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-89,,true,,31408,3747,12,12,null,0,61,705
+1761732977890,937,Navigate to the login page,200,OK,Thread Group 1-89,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,935,0,705
+1761732978837,466,Click on Login button,200,OK,Thread Group 1-89,text,true,,9943,1306,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732978837,231,Click on Login button-0,302,Found,Thread Group 1-89,text,true,,851,694,19,19,https://katalon-demo-cura.herokuapp.com/authenticate.php,231,0,0
+1761732979068,235,Click on Login button-1,200,OK,Thread Group 1-89,text,true,,9092,612,19,19,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732979328,234,Click on Book Appointment button,200,OK,Thread Group 1-89,text,true,,7463,769,15,15,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,234,0,0
+1761732979577,473,Click on Logout button,200,OK,Thread Group 1-89,text,true,,5871,1150,12,12,https://katalon-demo-cura.herokuapp.com/,233,0,0
+1761732979577,233,Click on Logout button-0,302,Found,Thread Group 1-89,text,true,,835,587,12,12,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,233,0,0
+1761732979810,240,Click on Logout button-1,200,OK,Thread Group 1-89,text,true,,5036,563,12,12,https://katalon-demo-cura.herokuapp.com/,240,0,0
+1761732977991,892,Navigate to the login page,200,OK,Thread Group 1-90,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,892,0,665
+1761732978895,441,Click on Login button,200,OK,Thread Group 1-90,text,true,,9943,1306,18,18,https://katalon-demo-cura.herokuapp.com/#appointment,218,0,0
+1761732978895,218,Click on Login button-0,302,Found,Thread Group 1-90,text,true,,851,694,18,18,https://katalon-demo-cura.herokuapp.com/authenticate.php,218,0,0
+1761732979114,222,Click on Login button-1,200,OK,Thread Group 1-90,text,true,,9092,612,18,18,https://katalon-demo-cura.herokuapp.com/#appointment,221,0,0
+1761732979359,224,Click on Book Appointment button,200,OK,Thread Group 1-90,text,true,,7459,765,15,15,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,223,0,0
+1761732979607,443,Click on Logout button,200,OK,Thread Group 1-90,text,true,,5871,1150,12,12,https://katalon-demo-cura.herokuapp.com/,217,0,0
+1761732979607,217,Click on Logout button-0,302,Found,Thread Group 1-90,text,true,,835,587,12,12,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,217,0,0
+1761732979825,225,Click on Logout button-1,200,OK,Thread Group 1-90,text,true,,5036,563,12,12,https://katalon-demo-cura.herokuapp.com/,225,0,0
+1761732978077,2040,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-91,,true,,31405,3748,10,10,null,0,67,669
+1761732978088,900,Navigate to the login page,200,OK,Thread Group 1-91,text,true,,8131,522,22,22,https://katalon-demo-cura.herokuapp.com/profile.php#login,900,0,669
+1761732979003,462,Click on Login button,200,OK,Thread Group 1-91,text,true,,9943,1306,17,17,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732979003,233,Click on Login button-0,302,Found,Thread Group 1-91,text,true,,851,694,17,17,https://katalon-demo-cura.herokuapp.com/authenticate.php,233,0,0
+1761732979236,229,Click on Login button-1,200,OK,Thread Group 1-91,text,true,,9092,612,17,17,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732979484,226,Click on Book Appointment button,200,OK,Thread Group 1-91,text,true,,7460,770,14,14,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,226,0,0
+1761732979730,452,Click on Logout button,200,OK,Thread Group 1-91,text,true,,5871,1150,10,10,https://katalon-demo-cura.herokuapp.com/,221,0,0
+1761732979730,221,Click on Logout button-0,302,Found,Thread Group 1-91,text,true,,835,587,10,10,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,221,0,0
+1761732979950,232,Click on Logout button-1,200,OK,Thread Group 1-91,text,true,,5036,563,10,10,https://katalon-demo-cura.herokuapp.com/,232,0,0
+1761732978175,2047,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-92,,true,,31398,3747,9,9,null,0,75,687
+1761732978186,910,Navigate to the login page,200,OK,Thread Group 1-92,text,true,,8131,522,21,21,https://katalon-demo-cura.herokuapp.com/profile.php#login,910,0,687
+1761732979111,455,Click on Login button,200,OK,Thread Group 1-92,text,true,,9937,1306,15,15,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732979111,227,Click on Login button-0,302,Found,Thread Group 1-92,text,true,,851,694,15,15,https://katalon-demo-cura.herokuapp.com/authenticate.php,227,0,0
+1761732979338,228,Click on Login button-1,200,OK,Thread Group 1-92,text,true,,9086,612,15,15,https://katalon-demo-cura.herokuapp.com/#appointment,228,0,0
+1761732979591,224,Click on Book Appointment button,200,OK,Thread Group 1-92,text,true,,7459,769,14,14,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,224,0,0
+1761732979838,458,Click on Logout button,200,OK,Thread Group 1-92,text,true,,5871,1150,9,9,https://katalon-demo-cura.herokuapp.com/,234,0,0
+1761732979838,234,Click on Logout button-0,302,Found,Thread Group 1-92,text,true,,835,587,9,9,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,234,0,0
+1761732980072,224,Click on Logout button-1,200,OK,Thread Group 1-92,text,true,,5036,563,9,9,https://katalon-demo-cura.herokuapp.com/,224,0,0
+1761732978274,2140,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-93,,true,,31393,3746,8,8,null,0,65,716
+1761732978286,957,Navigate to the login page,200,OK,Thread Group 1-93,text,true,,8131,522,20,20,https://katalon-demo-cura.herokuapp.com/profile.php#login,957,0,716
+1761732979265,476,Click on Login button,200,OK,Thread Group 1-93,text,true,,9933,1306,14,14,https://katalon-demo-cura.herokuapp.com/#appointment,235,0,0
+1761732979265,235,Click on Login button-0,302,Found,Thread Group 1-93,text,true,,851,694,14,14,https://katalon-demo-cura.herokuapp.com/authenticate.php,235,0,0
+1761732979500,241,Click on Login button-1,200,OK,Thread Group 1-93,text,true,,9082,612,14,14,https://katalon-demo-cura.herokuapp.com/#appointment,236,0,0
+1761732979761,239,Click on Book Appointment button,200,OK,Thread Group 1-93,text,true,,7458,768,13,13,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,237,0,0
+1761732980009,468,Click on Logout button,200,OK,Thread Group 1-93,text,true,,5871,1150,8,8,https://katalon-demo-cura.herokuapp.com/,235,0,0
+1761732980009,235,Click on Logout button-0,302,Found,Thread Group 1-93,text,true,,835,587,8,8,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,235,0,0
+1761732980244,233,Click on Logout button-1,200,OK,Thread Group 1-93,text,true,,5036,563,8,8,https://katalon-demo-cura.herokuapp.com/,233,0,0
+1761732978376,2091,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-94,,true,,31395,3748,7,7,null,0,66,703
+1761732978388,932,Navigate to the login page,200,OK,Thread Group 1-94,text,true,,8131,522,18,18,https://katalon-demo-cura.herokuapp.com/profile.php#login,932,0,703
+1761732979343,467,Click on Login button,200,OK,Thread Group 1-94,text,true,,9933,1306,14,14,https://katalon-demo-cura.herokuapp.com/#appointment,234,0,0
+1761732979343,234,Click on Login button-0,302,Found,Thread Group 1-94,text,true,,851,694,14,14,https://katalon-demo-cura.herokuapp.com/authenticate.php,234,0,0
+1761732979577,233,Click on Login button-1,200,OK,Thread Group 1-94,text,true,,9082,612,14,14,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732979823,234,Click on Book Appointment button,200,OK,Thread Group 1-94,text,true,,7460,770,10,10,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,234,0,0
+1761732980073,458,Click on Logout button,200,OK,Thread Group 1-94,text,true,,5871,1150,7,7,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732980073,227,Click on Logout button-0,302,Found,Thread Group 1-94,text,true,,835,587,7,7,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,227,0,0
+1761732980300,231,Click on Logout button-1,200,OK,Thread Group 1-94,text,true,,5036,563,7,7,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732978474,2071,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-95,,true,,31398,3751,6,6,null,0,64,703
+1761732978486,931,Navigate to the login page,200,OK,Thread Group 1-95,text,true,,8131,522,18,18,https://katalon-demo-cura.herokuapp.com/profile.php#login,931,0,703
+1761732979437,453,Click on Login button,200,OK,Thread Group 1-95,text,true,,9933,1306,13,13,https://katalon-demo-cura.herokuapp.com/#appointment,224,0,0
+1761732979437,224,Click on Login button-0,302,Found,Thread Group 1-95,text,true,,851,694,13,13,https://katalon-demo-cura.herokuapp.com/authenticate.php,224,0,0
+1761732979661,229,Click on Login button-1,200,OK,Thread Group 1-95,text,true,,9082,612,13,13,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732979901,230,Click on Book Appointment button,200,OK,Thread Group 1-95,text,true,,7463,773,10,10,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,229,0,0
+1761732980151,457,Click on Logout button,200,OK,Thread Group 1-95,text,true,,5871,1150,6,6,https://katalon-demo-cura.herokuapp.com/,227,0,0
+1761732980151,227,Click on Logout button-0,302,Found,Thread Group 1-95,text,true,,835,587,6,6,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,227,0,0
+1761732980378,230,Click on Logout button-1,200,OK,Thread Group 1-95,text,true,,5036,563,6,6,https://katalon-demo-cura.herokuapp.com/,230,0,0
+1761732978570,2088,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-96,,true,,31390,3747,5,5,null,0,61,698
+1761732978580,936,Navigate to the login page,200,OK,Thread Group 1-96,text,true,,8131,522,17,17,https://katalon-demo-cura.herokuapp.com/profile.php#login,936,0,698
+1761732979531,458,Click on Login button,200,OK,Thread Group 1-96,text,true,,9929,1306,13,13,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732979531,227,Click on Login button-0,302,Found,Thread Group 1-96,text,true,,847,694,13,13,https://katalon-demo-cura.herokuapp.com/authenticate.php,227,0,0
+1761732979758,231,Click on Login button-1,200,OK,Thread Group 1-96,text,true,,9082,612,13,13,https://katalon-demo-cura.herokuapp.com/#appointment,231,0,0
+1761732980009,235,Click on Book Appointment button,200,OK,Thread Group 1-96,text,true,,7459,769,9,9,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,235,0,0
+1761732980259,459,Click on Logout button,200,OK,Thread Group 1-96,text,true,,5871,1150,5,5,https://katalon-demo-cura.herokuapp.com/,228,0,0
+1761732980259,228,Click on Logout button-0,302,Found,Thread Group 1-96,text,true,,835,587,5,5,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,228,0,0
+1761732980487,231,Click on Logout button-1,200,OK,Thread Group 1-96,text,true,,5036,563,5,5,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732978668,2108,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-97,,true,,31390,3747,4,4,null,0,75,719
+1761732978679,949,Navigate to the login page,200,OK,Thread Group 1-97,text,true,,8131,522,15,15,https://katalon-demo-cura.herokuapp.com/profile.php#login,947,0,719
+1761732979653,460,Click on Login button,200,OK,Thread Group 1-97,text,true,,9929,1306,10,10,https://katalon-demo-cura.herokuapp.com/#appointment,227,0,0
+1761732979653,227,Click on Login button-0,302,Found,Thread Group 1-97,text,true,,847,694,10,10,https://katalon-demo-cura.herokuapp.com/authenticate.php,227,0,0
+1761732979880,233,Click on Login button-1,200,OK,Thread Group 1-97,text,true,,9082,612,10,10,https://katalon-demo-cura.herokuapp.com/#appointment,233,0,0
+1761732980137,233,Click on Book Appointment button,200,OK,Thread Group 1-97,text,true,,7459,769,8,8,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,233,0,0
+1761732980384,466,Click on Logout button,200,OK,Thread Group 1-97,text,true,,5871,1150,4,4,https://katalon-demo-cura.herokuapp.com/,226,0,0
+1761732980384,226,Click on Logout button-0,302,Found,Thread Group 1-97,text,true,,835,587,4,4,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,226,0,0
+1761732980610,240,Click on Logout button-1,200,OK,Thread Group 1-97,text,true,,5036,563,4,4,https://katalon-demo-cura.herokuapp.com/,240,0,0
+1761732978767,2089,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-98,,true,,31396,3751,3,3,null,0,69,711
+1761732978779,938,Navigate to the login page,200,OK,Thread Group 1-98,text,true,,8127,522,14,14,https://katalon-demo-cura.herokuapp.com/profile.php#login,936,0,711
+1761732979730,458,Click on Login button,200,OK,Thread Group 1-98,text,true,,9935,1306,9,9,https://katalon-demo-cura.herokuapp.com/#appointment,229,0,0
+1761732979730,229,Click on Login button-0,302,Found,Thread Group 1-98,text,true,,847,694,9,9,https://katalon-demo-cura.herokuapp.com/authenticate.php,229,0,0
+1761732979958,230,Click on Login button-1,200,OK,Thread Group 1-98,text,true,,9088,612,9,9,https://katalon-demo-cura.herokuapp.com/#appointment,230,0,0
+1761732980212,233,Click on Book Appointment button,200,OK,Thread Group 1-98,text,true,,7463,773,8,8,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,233,0,0
+1761732980463,460,Click on Logout button,200,OK,Thread Group 1-98,text,true,,5871,1150,3,3,https://katalon-demo-cura.herokuapp.com/,231,0,0
+1761732980463,231,Click on Logout button-0,302,Found,Thread Group 1-98,text,true,,835,587,3,3,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,231,0,0
+1761732980694,229,Click on Logout button-1,200,OK,Thread Group 1-98,text,true,,5036,563,3,3,https://katalon-demo-cura.herokuapp.com/,229,0,0
+1761732978962,1993,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-100,,true,,31388,3743,2,2,null,0,72,668
+1761732978990,889,Navigate to the login page,200,OK,Thread Group 1-100,text,true,,8127,522,13,13,https://katalon-demo-cura.herokuapp.com/profile.php#login,889,0,668
+1761732979900,441,Click on Login button,200,OK,Thread Group 1-100,text,true,,9935,1306,8,8,https://katalon-demo-cura.herokuapp.com/#appointment,220,0,0
+1761732979900,220,Click on Login button-0,302,Found,Thread Group 1-100,text,true,,847,694,8,8,https://katalon-demo-cura.herokuapp.com/authenticate.php,220,0,0
+1761732980120,221,Click on Login button-1,200,OK,Thread Group 1-100,text,true,,9088,612,8,8,https://katalon-demo-cura.herokuapp.com/#appointment,220,0,0
+1761732980352,224,Click on Book Appointment button,200,OK,Thread Group 1-100,text,true,,7455,765,6,6,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,224,0,0
+1761732980586,439,Click on Logout button,200,OK,Thread Group 1-100,text,true,,5871,1150,2,2,https://katalon-demo-cura.herokuapp.com/,218,0,0
+1761732980586,218,Click on Logout button-0,302,Found,Thread Group 1-100,text,true,,835,587,2,2,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,218,0,0
+1761732980804,221,Click on Logout button-1,200,OK,Thread Group 1-100,text,true,,5036,563,2,2,https://katalon-demo-cura.herokuapp.com/,221,0,0
+1761732978866,2162,TRANSACTION CONTROLLER,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-99,,true,,31386,3747,1,1,null,0,67,723
+1761732978879,962,Navigate to the login page,200,OK,Thread Group 1-99,text,true,,8127,522,14,14,https://katalon-demo-cura.herokuapp.com/profile.php#login,962,0,723
+1761732979854,480,Click on Login button,200,OK,Thread Group 1-99,text,true,,9929,1306,8,8,https://katalon-demo-cura.herokuapp.com/#appointment,239,0,0
+1761732979854,239,Click on Login button-0,302,Found,Thread Group 1-99,text,true,,847,694,8,8,https://katalon-demo-cura.herokuapp.com/authenticate.php,239,0,0
+1761732980093,241,Click on Login button-1,200,OK,Thread Group 1-99,text,true,,9082,612,8,8,https://katalon-demo-cura.herokuapp.com/#appointment,240,0,0
+1761732980352,243,Click on Book Appointment button,200,OK,Thread Group 1-99,text,true,,7459,769,6,6,https://katalon-demo-cura.herokuapp.com/appointment.php#summary,243,0,0
+1761732980617,477,Click on Logout button,200,OK,Thread Group 1-99,text,true,,5871,1150,1,1,https://katalon-demo-cura.herokuapp.com/,238,0,0
+1761732980617,238,Click on Logout button-0,302,Found,Thread Group 1-99,text,true,,835,587,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php?logout=,238,0,0
+1761732980855,239,Click on Logout button-1,200,OK,Thread Group 1-99,text,true,,5036,563,1,1,https://katalon-demo-cura.herokuapp.com/,239,0,0
